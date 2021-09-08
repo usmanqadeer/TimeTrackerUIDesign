@@ -17,20 +17,12 @@ namespace XFUITimeTrackerDesign.Views {
     public partial class TasksDetailsPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Syncfusion.XForms.ProgressBar.SfCircularProgressBar CustomContentCircularProgressBar;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.Label CustomContentProgressBarLabel;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Syncfusion.ListView.XForms.SfListView listView;
+        private global::Xamarin.Forms.ImageButton ButtonClose;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(TasksDetailsPage));
-            CustomContentCircularProgressBar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.XForms.ProgressBar.SfCircularProgressBar>(this, "CustomContentCircularProgressBar");
-            CustomContentProgressBarLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "CustomContentProgressBarLabel");
-            listView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Syncfusion.ListView.XForms.SfListView>(this, "listView");
+            ButtonClose = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ImageButton>(this, "ButtonClose");
         }
     }
 }

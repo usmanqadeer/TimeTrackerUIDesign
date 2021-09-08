@@ -1,7 +1,5 @@
 FormsViewGroup.dll
-Syncfusion.Core.XForms.Android.dll
-Syncfusion.SfListView.XForms.Android.dll
-Syncfusion.SfProgressBar.XForms.Android.dll
+ProgressRing.Forms.Plugin.Android.dll
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Annotation.dll
 Xamarin.AndroidX.Annotation.Experimental.dll

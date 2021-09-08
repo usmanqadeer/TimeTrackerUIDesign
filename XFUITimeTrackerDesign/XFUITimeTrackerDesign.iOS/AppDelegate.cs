@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
 using Foundation;
-using Syncfusion.ListView.XForms.iOS;
-using Syncfusion.XForms.iOS.EffectsView;
 using UIKit;
 
 namespace XFUITimeTrackerDesign.iOS
@@ -26,11 +23,7 @@ namespace XFUITimeTrackerDesign.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             global::Xamarin.Forms.FormsMaterial.Init();
-            SfListViewRenderer.Init();
-            SfEffectsViewRenderer.Init();
-            Syncfusion.XForms.iOS.ProgressBar.SfLinearProgressBarRenderer.Init();
-            Syncfusion.XForms.iOS.ProgressBar.SfCircularProgressBarRenderer.Init();
-
+           
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

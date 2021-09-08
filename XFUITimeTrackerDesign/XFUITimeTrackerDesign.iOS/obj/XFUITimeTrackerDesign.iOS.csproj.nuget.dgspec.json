@@ -29,7 +29,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "xamarinios10": {
@@ -48,13 +49,9 @@
               "target": "Package",
               "version": "[1.6.2, )"
             },
-            "Syncfusion.Xamarin.SfListView": {
+            "Xam.Plugins.Forms.ProgressRing": {
               "target": "Package",
-              "version": "[18.4.0.34, )"
-            },
-            "Syncfusion.Xamarin.SfProgressBar": {
-              "target": "Package",
-              "version": "[18.4.0.34, )"
+              "version": "[0.1.2, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -107,7 +104,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -135,13 +133,9 @@
               "target": "Package",
               "version": "[1.6.2, )"
             },
-            "Syncfusion.Xamarin.SfListView": {
+            "Xam.Plugins.Forms.ProgressRing": {
               "target": "Package",
-              "version": "[18.4.0.34, )"
-            },
-            "Syncfusion.Xamarin.SfProgressBar": {
-              "target": "Package",
-              "version": "[18.4.0.34, )"
+              "version": "[0.1.2, )"
             },
             "Xamarin.CommunityToolkit": {
               "target": "Package",

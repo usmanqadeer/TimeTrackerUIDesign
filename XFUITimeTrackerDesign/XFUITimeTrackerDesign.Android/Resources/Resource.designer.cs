@@ -25,50 +25,1802 @@ namespace XFUITimeTrackerDesign.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar1 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar1;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar10 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar10;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar11 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar11;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar12 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar12;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar13 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar13;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar14 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar14;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar15 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar15;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar16 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar16;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar17 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar17;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar18 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar18;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar19 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar19;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar2 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar2;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar20 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar20;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar21 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar21;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar22 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar22;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar23 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar23;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar24 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar24;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar25 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar25;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar26 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar26;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar27 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar27;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar28 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar28;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar29 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar29;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar3 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar3;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar30 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar30;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar4 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar4;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar5 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar5;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar6 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar6;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar7 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar7;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar8 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar8;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar9 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.Avatar9;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.input_layout_drop_down_icon;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.inputlayout_togglecollapseicon;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.inputlayout_togglevisibleicon;
-			global::Syncfusion.XForms.Android.Core.Resource.Drawable.clear_button_icon = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.clear_button_icon;
-			global::Syncfusion.ListView.XForms.Android.Resource.String.ApplicationName = global::XFUITimeTrackerDesign.Droid.Resource.String.ApplicationName;
-			global::Syncfusion.ListView.XForms.Android.Resource.String.Hello = global::XFUITimeTrackerDesign.Droid.Resource.String.Hello;
-			global::Syncfusion.ListView.XForms.Android.Resource.String.Load_More = global::XFUITimeTrackerDesign.Droid.Resource.String.Load_More;
-			global::Syncfusion.XForms.Android.ProgressBar.Resource.Drawable.sfprogressbar_determinate_linear = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.sfprogressbar_determinate_linear;
-			global::Syncfusion.XForms.Android.ProgressBar.Resource.Drawable.sfprogressbar_indeterminate_circular = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.sfprogressbar_indeterminate_circular;
-			global::Syncfusion.XForms.Android.ProgressBar.Resource.Drawable.sfprogressbar_indeterminate_linear = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.sfprogressbar_indeterminate_linear;
-			global::Syncfusion.XForms.Android.ProgressBar.Resource.Id.sfprogressbar_progress = global::XFUITimeTrackerDesign.Droid.Resource.Id.sfprogressbar_progress;
-			global::Syncfusion.XForms.Android.ProgressBar.Resource.Id.sfprogressbar_secondary_progress = global::XFUITimeTrackerDesign.Droid.Resource.Id.sfprogressbar_secondary_progress;
-			global::Syncfusion.XForms.Android.ProgressBar.Resource.Id.sfprogressbar_track = global::XFUITimeTrackerDesign.Droid.Resource.Id.sfprogressbar_track;
-			global::Syncfusion.XForms.Android.ProgressBar.Resource.String.library_name = global::XFUITimeTrackerDesign.Droid.Resource.String.library_name;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_fade_in = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_fade_in;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_fade_out = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_fade_out;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_popup_enter = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_popup_enter;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_popup_exit = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_popup_exit;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_slide_in_bottom = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_slide_in_top = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_slide_in_top;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_slide_out_bottom = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.abc_slide_out_top = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_slide_out_top;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.design_bottom_sheet_slide_in = global::XFUITimeTrackerDesign.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.design_bottom_sheet_slide_out = global::XFUITimeTrackerDesign.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.design_snackbar_in = global::XFUITimeTrackerDesign.Droid.Resource.Animation.design_snackbar_in;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animation.design_snackbar_out = global::XFUITimeTrackerDesign.Droid.Resource.Animation.design_snackbar_out;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Animator.design_appbar_state_list_animator = global::XFUITimeTrackerDesign.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarDivider = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarDivider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarItemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarItemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarPopupTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarSize = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarSplitStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarTabBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarTabStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarTabStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarTabTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionBarWidgetTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionDropDownStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionDropDownStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionMenuTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionMenuTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionMenuTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeCloseButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeCloseDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeCopyDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeCutDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeFindDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModePasteDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModePopupWindowStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeSelectAllDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeShareDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeSplitBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionModeWebSearchDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionOverflowButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionOverflowMenuStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionProviderClass = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionProviderClass;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.actionViewClass = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.actionViewClass;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.activityChooserViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.alertDialogCenterButtons = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.alertDialogStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.alertDialogStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.alertDialogTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.alertDialogTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.allowStacking = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.allowStacking;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.alpha = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.arrowHeadLength = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.arrowHeadLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.arrowShaftLength = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.arrowShaftLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.autoCompleteTextViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.background = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.backgroundSplit = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.backgroundSplit;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.backgroundStacked = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.backgroundStacked;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.backgroundTint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.backgroundTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.backgroundTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.backgroundTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.barLength = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.barLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.behavior_autoHide = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.behavior_autoHide;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.behavior_hideable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.behavior_hideable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.behavior_overlapTop = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.behavior_overlapTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.behavior_peekHeight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.behavior_peekHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.behavior_skipCollapsed = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.borderWidth = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.borderWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.borderlessButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.bottomSheetDialogTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.bottomSheetStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.bottomSheetStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonBarButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonGravity = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonPanelSideLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonStyleSmall = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonStyleSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonTint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.buttonTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.buttonTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.cardBackgroundColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.cardBackgroundColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.cardCornerRadius = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.cardCornerRadius;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.cardElevation = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.cardElevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.cardMaxElevation = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.cardMaxElevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.cardPreventCornerOverlap = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.cardUseCompatPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.checkboxStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.checkboxStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.checkedTextViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.closeIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.closeIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.closeItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.closeItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.collapseContentDescription = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.collapseContentDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.collapseIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.collapseIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.collapsedTitleGravity = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.collapsedTitleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.color = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorAccent = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorAccent;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorBackgroundFloating = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorButtonNormal = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorButtonNormal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorControlActivated = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorControlActivated;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorControlHighlight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorControlHighlight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorControlNormal = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorControlNormal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorPrimary = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorPrimary;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorPrimaryDark = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorPrimaryDark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.colorSwitchThumbNormal = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.commitIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.commitIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentInsetEnd = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentInsetEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentInsetEndWithActions = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentInsetLeft = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentInsetLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentInsetRight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentInsetRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentInsetStart = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentInsetStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentInsetStartWithNavigation = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentPaddingBottom = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentPaddingBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentPaddingLeft = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentPaddingLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentPaddingRight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentPaddingRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentPaddingTop = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentPaddingTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.contentScrim = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.contentScrim;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.controlBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.controlBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.counterEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.counterEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.counterMaxLength = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.counterMaxLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.counterOverflowTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.counterTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.counterTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.customNavigationLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.customNavigationLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.defaultQueryHint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.defaultQueryHint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.dialogPreferredPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.dialogTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.dialogTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.displayOptions = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.displayOptions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.divider = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.divider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.dividerHorizontal = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.dividerHorizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.dividerPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.dividerPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.dividerVertical = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.dividerVertical;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.drawableSize = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.drawableSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.drawerArrowStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.drawerArrowStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.dropDownListViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.editTextBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.editTextBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.editTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.editTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.editTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.editTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.elevation = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.errorEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.errorEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.errorTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.errorTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expanded = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expanded;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandedTitleGravity = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandedTitleGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandedTitleMargin = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandedTitleMargin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandedTitleMarginBottom = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandedTitleMarginEnd = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandedTitleMarginStart = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandedTitleMarginTop = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.expandedTitleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.fabSize = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.fabSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.foregroundInsidePadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.gapBetweenBars = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.gapBetweenBars;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.goIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.goIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.headerLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.headerLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.height = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.hideOnContentScroll = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.hideOnContentScroll;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.hintAnimationEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.hintEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.hintEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.hintTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.hintTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.homeAsUpIndicator = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.homeLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.homeLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.icon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.iconifiedByDefault = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.iconifiedByDefault;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.imageButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.imageButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.indeterminateProgressStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.initialActivityCount = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.initialActivityCount;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.insetForeground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.insetForeground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.isLightTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.isLightTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.itemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.itemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.itemIconTint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.itemIconTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.itemPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.itemPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.itemTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.itemTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.itemTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.itemTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.keylines = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.keylines;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layoutManager = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layoutManager;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_anchor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_anchor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_anchorGravity = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_anchorGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_behavior = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_behavior;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_collapseMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_collapseMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_dodgeInsetEdges = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_insetEdge = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_insetEdge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_keyline = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_keyline;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_scrollFlags = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_scrollFlags;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.layout_scrollInterpolator = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listDividerAlertDialog = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listMenuViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listMenuViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listPopupWindowStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listPreferredItemHeight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listPreferredItemHeightLarge = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listPreferredItemHeightSmall = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.listPreferredItemPaddingRight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.logo = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.logo;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.logoDescription = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.logoDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.maxActionInlineWidth = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.maxButtonHeight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.maxButtonHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.measureWithLargestChild = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.measureWithLargestChild;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.menu = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.multiChoiceItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.navigationContentDescription = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.navigationContentDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.navigationIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.navigationIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.navigationMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.navigationMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.overlapAnchor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.overlapAnchor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.paddingBottomNoButtons = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.paddingEnd = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.paddingEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.paddingStart = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.paddingStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.paddingTopNoTitle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.panelBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.panelBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.panelMenuListTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.panelMenuListTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.panelMenuListWidth = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.panelMenuListWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.passwordToggleContentDescription = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.passwordToggleDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.passwordToggleEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.passwordToggleTint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.passwordToggleTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.passwordToggleTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.popupMenuStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.popupMenuStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.popupTheme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.popupTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.popupWindowStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.popupWindowStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.preserveIconSpacing = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.preserveIconSpacing;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.pressedTranslationZ = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.pressedTranslationZ;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.progressBarPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.progressBarPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.progressBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.progressBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.queryBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.queryBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.queryHint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.queryHint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.radioButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.radioButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.ratingBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.ratingBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.ratingBarStyleIndicator = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.ratingBarStyleSmall = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.reverseLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.reverseLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.rippleColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.rippleColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.scrimAnimationDuration = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.searchHintIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.searchHintIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.searchIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.searchIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.searchViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.searchViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.seekBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.seekBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.selectableItemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.selectableItemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.showAsAction = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.showAsAction;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.showDividers = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.showDividers;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.showText = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.showText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.showTitle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.showTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.singleChoiceItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.spanCount = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.spanCount;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.spinBars = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.spinBars;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.spinnerDropDownItemStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.spinnerStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.spinnerStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.splitTrack = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.splitTrack;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.srcCompat = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.srcCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.stackFromEnd = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.stackFromEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.state_above_anchor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.state_above_anchor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.state_collapsed = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.state_collapsed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.state_collapsible = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.state_collapsible;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.statusBarBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.statusBarBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.statusBarScrim = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.statusBarScrim;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.subMenuArrow = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.subMenuArrow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.submitBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.submitBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.subtitleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.subtitleTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.subtitleTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.subtitleTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.subtitleTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.suggestionRowLayout = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.suggestionRowLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.switchMinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.switchMinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.switchPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.switchPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.switchStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.switchStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.switchTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.switchTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabBackground = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabContentStart = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabContentStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabGravity = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabIndicatorColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabIndicatorColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabIndicatorHeight = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabMaxWidth = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabMaxWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabMinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabMinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabPaddingBottom = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabPaddingBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabPaddingEnd = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabPaddingEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabPaddingStart = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabPaddingStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabPaddingTop = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabPaddingTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabSelectedTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tabTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tabTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAllCaps = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAllCaps;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearanceListItem = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearanceListItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearanceListItemSecondary = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearanceListItemSmall = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textColorAlertDialogListItem = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.textColorSearchUrl = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.textColorSearchUrl;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.theme = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.theme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.thickness = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.thickness;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.thumbTextPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.thumbTextPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.thumbTint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.thumbTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.thumbTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.thumbTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tickMark = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tickMark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tickMarkTint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tickMarkTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tickMarkTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tickMarkTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.tintMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.tintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.title = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleMargin = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleMargin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleMarginBottom = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleMarginBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleMarginEnd = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleMarginEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleMarginStart = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleMarginStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleMarginTop = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleMarginTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleMargins = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleMargins;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.titleTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.titleTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.toolbarId = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.toolbarId;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.toolbarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.toolbarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.track = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.track;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.trackTint = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.trackTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.trackTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.trackTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.useCompatPadding = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.useCompatPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.voiceIcon = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.voiceIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowActionBarOverlay = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowActionModeOverlay = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowFixedHeightMajor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowFixedHeightMinor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowFixedWidthMajor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowFixedWidthMinor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowMinWidthMajor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowMinWidthMinor = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Attribute.windowNoTitle = global::XFUITimeTrackerDesign.Droid.Resource.Attribute.windowNoTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::XFUITimeTrackerDesign.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::XFUITimeTrackerDesign.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::XFUITimeTrackerDesign.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_btn_colored_text_material = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_color_highlight_material = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_color_highlight_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_hint_foreground_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_hint_foreground_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_primary_text_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_primary_text_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_primary_text_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_search_url_text = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_search_url_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_search_url_text_normal = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_search_url_text_normal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_search_url_text_pressed = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_search_url_text_selected = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_search_url_text_selected;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_secondary_text_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_secondary_text_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_tint_btn_checkable = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_tint_default = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_tint_default;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_tint_edittext = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_tint_edittext;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_tint_seek_thumb = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_tint_spinner = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_tint_spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.abc_tint_switch_track = global::XFUITimeTrackerDesign.Droid.Resource.Color.abc_tint_switch_track;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.accent_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.accent_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.accent_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.accent_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.background_floating_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.background_floating_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.background_floating_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.background_floating_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.background_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.background_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.background_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.background_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.bright_foreground_disabled_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.bright_foreground_disabled_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.bright_foreground_inverse_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.bright_foreground_inverse_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.bright_foreground_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.bright_foreground_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.bright_foreground_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.bright_foreground_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.button_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.button_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.button_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.button_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.cardview_dark_background = global::XFUITimeTrackerDesign.Droid.Resource.Color.cardview_dark_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.cardview_light_background = global::XFUITimeTrackerDesign.Droid.Resource.Color.cardview_light_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.cardview_shadow_end_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.cardview_shadow_end_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.cardview_shadow_start_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.cardview_shadow_start_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_bottom_navigation_shadow_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_error = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_error;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_fab_shadow_end_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_fab_shadow_mid_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_fab_shadow_start_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_fab_stroke_end_inner_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_fab_stroke_end_outer_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_fab_stroke_top_inner_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_fab_stroke_top_outer_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.design_snackbar_background_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.design_snackbar_background_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.dim_foreground_disabled_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.dim_foreground_disabled_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.dim_foreground_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.dim_foreground_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.dim_foreground_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.dim_foreground_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.foreground_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.foreground_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.foreground_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.foreground_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.highlighted_text_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.highlighted_text_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.highlighted_text_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.highlighted_text_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_blue_grey_800 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_blue_grey_800;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_blue_grey_900 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_blue_grey_900;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_blue_grey_950 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_blue_grey_950;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_deep_teal_200 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_deep_teal_200;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_deep_teal_500 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_deep_teal_500;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_grey_100 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_grey_100;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_grey_300 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_grey_300;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_grey_50 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_grey_50;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_grey_600 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_grey_600;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_grey_800 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_grey_800;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_grey_850 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_grey_850;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.material_grey_900 = global::XFUITimeTrackerDesign.Droid.Resource.Color.material_grey_900;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.notification_action_color_filter = global::XFUITimeTrackerDesign.Droid.Resource.Color.notification_action_color_filter;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.notification_icon_bg_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.notification_icon_bg_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.notification_material_background_media_default_color = global::XFUITimeTrackerDesign.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_dark_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_dark_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_dark_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_dark_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_text_default_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_text_default_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_text_default_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_text_default_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_text_disabled_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.primary_text_disabled_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.ripple_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.ripple_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.ripple_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.ripple_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.secondary_text_default_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.secondary_text_default_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.secondary_text_default_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.secondary_text_disabled_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.secondary_text_disabled_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.switch_thumb_disabled_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.switch_thumb_disabled_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.switch_thumb_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.switch_thumb_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.switch_thumb_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.switch_thumb_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.switch_thumb_normal_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Color.switch_thumb_normal_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_default_height_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_elevation_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_button_min_height_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_button_min_width_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_button_inset_vertical_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_button_padding_vertical_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_config_prefDialogWidth = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_control_corner_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_control_corner_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_control_inset_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_control_inset_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_control_padding_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_control_padding_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_min_width_major = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_min_width_minor = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_padding_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_padding_top_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dialog_title_divider_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_floating_window_z = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_floating_window_z;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_panel_menu_list_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_progress_bar_height_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_search_view_preferred_height = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_search_view_preferred_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_switch_padding = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_switch_padding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_body_1_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_body_2_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_button_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_caption_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_display_1_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_display_2_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_display_3_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_display_4_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_headline_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_large_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_medium_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_menu_header_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_menu_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_small_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_subhead_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_title_material = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.cardview_compat_inset_shadow = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.cardview_default_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.cardview_default_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.cardview_default_radius = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.cardview_default_radius;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_appbar_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_appbar_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_height = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_margin = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_navigation_text_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_fab_border_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_fab_border_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_fab_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_fab_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_fab_image_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_fab_image_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_fab_size_mini = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_fab_size_mini;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_fab_size_normal = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_fab_size_normal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_fab_translation_z_pressed = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_navigation_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_navigation_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_navigation_icon_padding = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_navigation_icon_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_navigation_max_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_navigation_max_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_navigation_padding_bottom = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_max_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_min_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_padding_vertical = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_snackbar_text_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_tab_max_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_tab_max_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_tab_scrollable_min_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_tab_text_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_tab_text_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.design_tab_text_size_2line = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.disabled_alpha_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.disabled_alpha_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.highlight_alpha_material_colored = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.highlight_alpha_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.highlight_alpha_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.hint_alpha_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.hint_alpha_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_action_icon_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_action_icon_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_action_text_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_action_text_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_big_circle_margin = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_content_margin_start = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_content_margin_start;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_large_icon_height = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_large_icon_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_large_icon_width = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_large_icon_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_main_column_padding_top = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_media_narrow_margin = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_right_icon_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_right_icon_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_right_side_padding_top = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_small_icon_background_padding = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_small_icon_size_as_large = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_subtext_size = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_subtext_size;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_top_pad = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_top_pad;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Dimension.notification_top_pad_large_text = global::XFUITimeTrackerDesign.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_action_bar_item_background_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_borderless_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_check_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_check_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_colored_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_radio_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_cab_background_internal_bg = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_cab_background_top_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_control_background_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_control_background_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_dialog_material_background = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_edit_text_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_edit_text_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_ab_back_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_clear_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_go_search_api_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_search_api_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_star_black_16dp = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_star_black_36dp = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_star_black_48dp = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_item_background_holo_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_item_background_holo_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_focused_holo = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_longpressed_holo = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_pressed_holo_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_selector_holo_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_list_selector_holo_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ratingbar_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_ratingbar_small_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_seekbar_thumb_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_seekbar_track_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_switch_thumb_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_tab_indicator_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_text_cursor_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_textfield_search_material = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.abc_vector_test = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.abc_vector_test;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.avd_hide_password = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.avd_hide_password;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.avd_show_password = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.avd_show_password;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.design_bottom_navigation_item_background = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.design_fab_background = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.design_fab_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.design_ic_visibility = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.design_ic_visibility;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.design_ic_visibility_off = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.design_password_eye = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.design_password_eye;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.design_snackbar_background = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.design_snackbar_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.navigation_empty_icon = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.navigation_empty_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_action_background = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_action_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_bg = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_bg;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_bg_low = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_bg_low;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_bg_low_normal = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_bg_low_pressed = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_bg_normal = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_bg_normal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_bg_normal_pressed = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_icon_background = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_icon_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_template_icon_bg = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_template_icon_low_bg = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notification_tile_bg = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notification_tile_bg;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::XFUITimeTrackerDesign.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action0 = global::XFUITimeTrackerDesign.Droid.Resource.Id.action0;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_bar = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_bar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_bar_activity_content = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_bar_activity_content;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_bar_container = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_bar_container;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_bar_root = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_bar_root;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_bar_spinner = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_bar_spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_bar_subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_bar_subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_bar_title = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_bar_title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_container = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_container;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_context_bar = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_context_bar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_divider = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_divider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_image = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_image;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_menu_divider = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_menu_divider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_menu_presenter = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_menu_presenter;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_mode_bar = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_mode_bar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_mode_bar_stub = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_mode_bar_stub;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_mode_close_button = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_mode_close_button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.action_text = global::XFUITimeTrackerDesign.Droid.Resource.Id.action_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.actions = global::XFUITimeTrackerDesign.Droid.Resource.Id.actions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.activity_chooser_view_content = global::XFUITimeTrackerDesign.Droid.Resource.Id.activity_chooser_view_content;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.add = global::XFUITimeTrackerDesign.Droid.Resource.Id.add;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.alertTitle = global::XFUITimeTrackerDesign.Droid.Resource.Id.alertTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.all = global::XFUITimeTrackerDesign.Droid.Resource.Id.all;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.always = global::XFUITimeTrackerDesign.Droid.Resource.Id.always;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.auto = global::XFUITimeTrackerDesign.Droid.Resource.Id.auto;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.beginning = global::XFUITimeTrackerDesign.Droid.Resource.Id.beginning;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.bottom = global::XFUITimeTrackerDesign.Droid.Resource.Id.bottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.buttonPanel = global::XFUITimeTrackerDesign.Droid.Resource.Id.buttonPanel;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.cancel_action = global::XFUITimeTrackerDesign.Droid.Resource.Id.cancel_action;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.center = global::XFUITimeTrackerDesign.Droid.Resource.Id.center;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.center_horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Id.center_horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.center_vertical = global::XFUITimeTrackerDesign.Droid.Resource.Id.center_vertical;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.checkbox = global::XFUITimeTrackerDesign.Droid.Resource.Id.checkbox;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.chronometer = global::XFUITimeTrackerDesign.Droid.Resource.Id.chronometer;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.clip_horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Id.clip_horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.clip_vertical = global::XFUITimeTrackerDesign.Droid.Resource.Id.clip_vertical;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.collapseActionView = global::XFUITimeTrackerDesign.Droid.Resource.Id.collapseActionView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.container = global::XFUITimeTrackerDesign.Droid.Resource.Id.container;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.contentPanel = global::XFUITimeTrackerDesign.Droid.Resource.Id.contentPanel;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.coordinator = global::XFUITimeTrackerDesign.Droid.Resource.Id.coordinator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.custom = global::XFUITimeTrackerDesign.Droid.Resource.Id.custom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.customPanel = global::XFUITimeTrackerDesign.Droid.Resource.Id.customPanel;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.decor_content_parent = global::XFUITimeTrackerDesign.Droid.Resource.Id.decor_content_parent;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.default_activity_button = global::XFUITimeTrackerDesign.Droid.Resource.Id.default_activity_button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.design_bottom_sheet = global::XFUITimeTrackerDesign.Droid.Resource.Id.design_bottom_sheet;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.design_menu_item_action_area = global::XFUITimeTrackerDesign.Droid.Resource.Id.design_menu_item_action_area;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.design_menu_item_action_area_stub = global::XFUITimeTrackerDesign.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.design_menu_item_text = global::XFUITimeTrackerDesign.Droid.Resource.Id.design_menu_item_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.design_navigation_view = global::XFUITimeTrackerDesign.Droid.Resource.Id.design_navigation_view;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.disableHome = global::XFUITimeTrackerDesign.Droid.Resource.Id.disableHome;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.edit_query = global::XFUITimeTrackerDesign.Droid.Resource.Id.edit_query;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.end = global::XFUITimeTrackerDesign.Droid.Resource.Id.end;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.end_padder = global::XFUITimeTrackerDesign.Droid.Resource.Id.end_padder;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.enterAlways = global::XFUITimeTrackerDesign.Droid.Resource.Id.enterAlways;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.enterAlwaysCollapsed = global::XFUITimeTrackerDesign.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.exitUntilCollapsed = global::XFUITimeTrackerDesign.Droid.Resource.Id.exitUntilCollapsed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.expand_activities_button = global::XFUITimeTrackerDesign.Droid.Resource.Id.expand_activities_button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.expanded_menu = global::XFUITimeTrackerDesign.Droid.Resource.Id.expanded_menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.fill = global::XFUITimeTrackerDesign.Droid.Resource.Id.fill;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.fill_horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Id.fill_horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.fill_vertical = global::XFUITimeTrackerDesign.Droid.Resource.Id.fill_vertical;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.@fixed = global::XFUITimeTrackerDesign.Droid.Resource.Id.@fixed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.home = global::XFUITimeTrackerDesign.Droid.Resource.Id.home;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.homeAsUp = global::XFUITimeTrackerDesign.Droid.Resource.Id.homeAsUp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.icon = global::XFUITimeTrackerDesign.Droid.Resource.Id.icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.icon_group = global::XFUITimeTrackerDesign.Droid.Resource.Id.icon_group;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.ifRoom = global::XFUITimeTrackerDesign.Droid.Resource.Id.ifRoom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.image = global::XFUITimeTrackerDesign.Droid.Resource.Id.image;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.info = global::XFUITimeTrackerDesign.Droid.Resource.Id.info;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.item_touch_helper_previous_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.largeLabel = global::XFUITimeTrackerDesign.Droid.Resource.Id.largeLabel;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.left = global::XFUITimeTrackerDesign.Droid.Resource.Id.left;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.line1 = global::XFUITimeTrackerDesign.Droid.Resource.Id.line1;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.line3 = global::XFUITimeTrackerDesign.Droid.Resource.Id.line3;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.listMode = global::XFUITimeTrackerDesign.Droid.Resource.Id.listMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.list_item = global::XFUITimeTrackerDesign.Droid.Resource.Id.list_item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.masked = global::XFUITimeTrackerDesign.Droid.Resource.Id.masked;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.media_actions = global::XFUITimeTrackerDesign.Droid.Resource.Id.media_actions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.middle = global::XFUITimeTrackerDesign.Droid.Resource.Id.middle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.mini = global::XFUITimeTrackerDesign.Droid.Resource.Id.mini;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.multiply = global::XFUITimeTrackerDesign.Droid.Resource.Id.multiply;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.navigation_header_container = global::XFUITimeTrackerDesign.Droid.Resource.Id.navigation_header_container;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.never = global::XFUITimeTrackerDesign.Droid.Resource.Id.never;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.none = global::XFUITimeTrackerDesign.Droid.Resource.Id.none;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.normal = global::XFUITimeTrackerDesign.Droid.Resource.Id.normal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.notification_background = global::XFUITimeTrackerDesign.Droid.Resource.Id.notification_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.notification_main_column = global::XFUITimeTrackerDesign.Droid.Resource.Id.notification_main_column;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.notification_main_column_container = global::XFUITimeTrackerDesign.Droid.Resource.Id.notification_main_column_container;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.parallax = global::XFUITimeTrackerDesign.Droid.Resource.Id.parallax;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.parentPanel = global::XFUITimeTrackerDesign.Droid.Resource.Id.parentPanel;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.pin = global::XFUITimeTrackerDesign.Droid.Resource.Id.pin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.progress_circular = global::XFUITimeTrackerDesign.Droid.Resource.Id.progress_circular;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.progress_horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Id.progress_horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.radio = global::XFUITimeTrackerDesign.Droid.Resource.Id.radio;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.right = global::XFUITimeTrackerDesign.Droid.Resource.Id.right;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.right_icon = global::XFUITimeTrackerDesign.Droid.Resource.Id.right_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.right_side = global::XFUITimeTrackerDesign.Droid.Resource.Id.right_side;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.screen = global::XFUITimeTrackerDesign.Droid.Resource.Id.screen;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.scroll = global::XFUITimeTrackerDesign.Droid.Resource.Id.scroll;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.scrollIndicatorDown = global::XFUITimeTrackerDesign.Droid.Resource.Id.scrollIndicatorDown;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.scrollIndicatorUp = global::XFUITimeTrackerDesign.Droid.Resource.Id.scrollIndicatorUp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.scrollView = global::XFUITimeTrackerDesign.Droid.Resource.Id.scrollView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.scrollable = global::XFUITimeTrackerDesign.Droid.Resource.Id.scrollable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_badge = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_badge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_bar = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_bar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_button = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_close_btn = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_close_btn;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_edit_frame = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_edit_frame;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_go_btn = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_go_btn;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_mag_icon = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_mag_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_plate = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_plate;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_src_text = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_src_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.search_voice_btn = global::XFUITimeTrackerDesign.Droid.Resource.Id.search_voice_btn;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.select_dialog_listview = global::XFUITimeTrackerDesign.Droid.Resource.Id.select_dialog_listview;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.shortcut = global::XFUITimeTrackerDesign.Droid.Resource.Id.shortcut;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.showCustom = global::XFUITimeTrackerDesign.Droid.Resource.Id.showCustom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.showHome = global::XFUITimeTrackerDesign.Droid.Resource.Id.showHome;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.showTitle = global::XFUITimeTrackerDesign.Droid.Resource.Id.showTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.smallLabel = global::XFUITimeTrackerDesign.Droid.Resource.Id.smallLabel;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.snackbar_action = global::XFUITimeTrackerDesign.Droid.Resource.Id.snackbar_action;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.snackbar_text = global::XFUITimeTrackerDesign.Droid.Resource.Id.snackbar_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.snap = global::XFUITimeTrackerDesign.Droid.Resource.Id.snap;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.spacer = global::XFUITimeTrackerDesign.Droid.Resource.Id.spacer;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.split_action_bar = global::XFUITimeTrackerDesign.Droid.Resource.Id.split_action_bar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.src_atop = global::XFUITimeTrackerDesign.Droid.Resource.Id.src_atop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.src_in = global::XFUITimeTrackerDesign.Droid.Resource.Id.src_in;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.src_over = global::XFUITimeTrackerDesign.Droid.Resource.Id.src_over;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.start = global::XFUITimeTrackerDesign.Droid.Resource.Id.start;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.status_bar_latest_event_content = global::XFUITimeTrackerDesign.Droid.Resource.Id.status_bar_latest_event_content;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.submenuarrow = global::XFUITimeTrackerDesign.Droid.Resource.Id.submenuarrow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.submit_area = global::XFUITimeTrackerDesign.Droid.Resource.Id.submit_area;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.tabMode = global::XFUITimeTrackerDesign.Droid.Resource.Id.tabMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.text = global::XFUITimeTrackerDesign.Droid.Resource.Id.text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.text2 = global::XFUITimeTrackerDesign.Droid.Resource.Id.text2;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.textSpacerNoButtons = global::XFUITimeTrackerDesign.Droid.Resource.Id.textSpacerNoButtons;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.textSpacerNoTitle = global::XFUITimeTrackerDesign.Droid.Resource.Id.textSpacerNoTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.textinput_counter = global::XFUITimeTrackerDesign.Droid.Resource.Id.textinput_counter;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.textinput_error = global::XFUITimeTrackerDesign.Droid.Resource.Id.textinput_error;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.time = global::XFUITimeTrackerDesign.Droid.Resource.Id.time;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.title = global::XFUITimeTrackerDesign.Droid.Resource.Id.title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.titleDividerNoCustom = global::XFUITimeTrackerDesign.Droid.Resource.Id.titleDividerNoCustom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.title_template = global::XFUITimeTrackerDesign.Droid.Resource.Id.title_template;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.top = global::XFUITimeTrackerDesign.Droid.Resource.Id.top;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.topPanel = global::XFUITimeTrackerDesign.Droid.Resource.Id.topPanel;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.touch_outside = global::XFUITimeTrackerDesign.Droid.Resource.Id.touch_outside;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.transition_current_scene = global::XFUITimeTrackerDesign.Droid.Resource.Id.transition_current_scene;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.transition_scene_layoutid_cache = global::XFUITimeTrackerDesign.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.up = global::XFUITimeTrackerDesign.Droid.Resource.Id.up;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.useLogo = global::XFUITimeTrackerDesign.Droid.Resource.Id.useLogo;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.view_offset_helper = global::XFUITimeTrackerDesign.Droid.Resource.Id.view_offset_helper;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.visible = global::XFUITimeTrackerDesign.Droid.Resource.Id.visible;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.withText = global::XFUITimeTrackerDesign.Droid.Resource.Id.withText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Id.wrap_content = global::XFUITimeTrackerDesign.Droid.Resource.Id.wrap_content;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.abc_config_activityDefaultDur = global::XFUITimeTrackerDesign.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.abc_config_activityShortDur = global::XFUITimeTrackerDesign.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.app_bar_elevation_anim_duration = global::XFUITimeTrackerDesign.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.bottom_sheet_slide_duration = global::XFUITimeTrackerDesign.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.cancel_button_image_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.design_snackbar_text_max_lines = global::XFUITimeTrackerDesign.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.hide_password_duration = global::XFUITimeTrackerDesign.Droid.Resource.Integer.hide_password_duration;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.show_password_duration = global::XFUITimeTrackerDesign.Droid.Resource.Integer.show_password_duration;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Integer.status_bar_notification_info_maxnum = global::XFUITimeTrackerDesign.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_action_bar_title_item = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_action_bar_up_container = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_action_menu_item_layout = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_action_menu_layout = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_action_menu_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_action_mode_bar = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_action_mode_bar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_action_mode_close_item_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_activity_chooser_view = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_alert_dialog_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_alert_dialog_title_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_dialog_title_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_dialog_title_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_expanded_menu_layout = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_list_menu_item_checkbox = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_list_menu_item_icon = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_list_menu_item_layout = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_list_menu_item_radio = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_popup_menu_item_layout = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_screen_content_include = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_screen_content_include;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_screen_simple = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_screen_simple;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_screen_toolbar = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_screen_toolbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_search_view = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_search_view;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.abc_select_dialog_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.abc_select_dialog_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_bottom_navigation_item = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_bottom_sheet_dialog = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_layout_snackbar = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_layout_snackbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_layout_snackbar_include = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_layout_tab_icon = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_layout_tab_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_layout_tab_text = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_layout_tab_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_menu_item_action_area = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_menu_item_action_area;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_navigation_item = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_navigation_item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_navigation_item_header = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_navigation_item_header;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_navigation_item_separator = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_navigation_item_separator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_navigation_item_subheader = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_navigation_menu = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_navigation_menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.design_navigation_menu_item = global::XFUITimeTrackerDesign.Droid.Resource.Layout.design_navigation_menu_item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_action = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_action;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_action_tombstone = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_action_tombstone;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_media_action = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_media_action;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_media_cancel_action = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_media_cancel_action;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_big_media = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_big_media;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_big_media_custom = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_big_media_narrow = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_custom_big = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_custom_big;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_icon_group = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_icon_group;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_lines_media = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_lines_media;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_media = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_media;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_media_custom = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_media_custom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_part_chronometer = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.notification_template_part_time = global::XFUITimeTrackerDesign.Droid.Resource.Layout.notification_template_part_time;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.select_dialog_item_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.select_dialog_item_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.select_dialog_multichoice_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.select_dialog_singlechoice_material = global::XFUITimeTrackerDesign.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::XFUITimeTrackerDesign.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_action_bar_home_description = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_action_bar_home_description;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_action_bar_up_description = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_action_bar_up_description;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_action_menu_overflow_description = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_action_mode_done = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_action_mode_done;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_activity_chooser_view_see_all = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_activitychooserview_choose_application = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_capital_off = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_capital_off;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_capital_on = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_capital_on;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_search_hint = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_search_hint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_searchview_description_clear = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_searchview_description_clear;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_searchview_description_query = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_searchview_description_query;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_searchview_description_search = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_searchview_description_search;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_searchview_description_submit = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_searchview_description_submit;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_searchview_description_voice = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_searchview_description_voice;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_shareactionprovider_share_with = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_shareactionprovider_share_with_application = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.abc_toolbar_collapse_description = global::XFUITimeTrackerDesign.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.appbar_scrolling_view_behavior = global::XFUITimeTrackerDesign.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.bottom_sheet_behavior = global::XFUITimeTrackerDesign.Droid.Resource.String.bottom_sheet_behavior;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.character_counter_pattern = global::XFUITimeTrackerDesign.Droid.Resource.String.character_counter_pattern;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.library_name = global::XFUITimeTrackerDesign.Droid.Resource.String.library_name;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.password_toggle_content_description = global::XFUITimeTrackerDesign.Droid.Resource.String.password_toggle_content_description;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.path_password_eye = global::XFUITimeTrackerDesign.Droid.Resource.String.path_password_eye;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.path_password_eye_mask_strike_through = global::XFUITimeTrackerDesign.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.path_password_eye_mask_visible = global::XFUITimeTrackerDesign.Droid.Resource.String.path_password_eye_mask_visible;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.path_password_strike_through = global::XFUITimeTrackerDesign.Droid.Resource.String.path_password_strike_through;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.search_menu_title = global::XFUITimeTrackerDesign.Droid.Resource.String.search_menu_title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.String.status_bar_notification_info_overflow = global::XFUITimeTrackerDesign.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.AlertDialog_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.AlertDialog_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Animation_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::XFUITimeTrackerDesign.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_AlertDialog_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_CardView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_CardView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V21_Theme_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V22_Theme_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V23_Theme_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V7_Theme_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Button = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Base_Widget_Design_TabLayout = global::XFUITimeTrackerDesign.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.CardView = global::XFUITimeTrackerDesign.Droid.Resource.Style.CardView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.CardView_Dark = global::XFUITimeTrackerDesign.Droid.Resource.Style.CardView_Dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.CardView_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.CardView_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_V21_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_V21_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_V25_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_V25_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::XFUITimeTrackerDesign.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Button = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Large = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Design_Counter = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Design_Error = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Design_Hint = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Design_Tab = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::XFUITimeTrackerDesign.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DayNight = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_Design = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_Design;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_Design_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_Design_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Theme_Design_NoActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.ThemeOverlay_AppCompat = global::XFUITimeTrackerDesign.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::XFUITimeTrackerDesign.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::XFUITimeTrackerDesign.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::XFUITimeTrackerDesign.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActionMode = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Button = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Button_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_EditText = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ImageButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ListView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_RatingBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_SearchView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_SeekBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Spinner = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Toolbar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_AppBarLayout = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_BottomNavigationView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_FloatingActionButton = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_NavigationView = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_Snackbar = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_TabLayout = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Style.Widget_Design_TextInputLayout = global::XFUITimeTrackerDesign.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_background = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_backgroundSplit = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_backgroundStacked = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_contentInsetRight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_contentInsetStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_displayOptions = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_divider = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_divider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_height = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_homeLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_icon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_itemPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_logo = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_logo;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_navigationMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_popupTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_progressBarPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_progressBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_title = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBar_titleTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBarLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBarLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMenuItemView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMenuItemView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMenuView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMenuView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMode_background = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMode_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMode_backgroundSplit = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMode_closeItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMode_height = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMode_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActionMode_titleTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActivityChooserView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActivityChooserView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog_android_layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog_listItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog_listLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog_showTitle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayout_android_background = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayout_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayout_expanded = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayoutStates = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayout_Layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatImageView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatImageView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatImageView_android_src = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatImageView_tint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatImageView_tintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatSeekBar = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomNavigationView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomNavigationView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomNavigationView_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomNavigationView_menu = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ButtonBarLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ButtonBarLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_android_minHeight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_android_minWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_cardBackgroundColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_cardCornerRadius = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_cardElevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_cardElevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_cardMaxElevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_contentPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_contentPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_contentPaddingBottom = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_contentPaddingLeft = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_contentPaddingRight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CardView_contentPaddingTop = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ColorStateListItem = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ColorStateListItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ColorStateListItem_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ColorStateListItem_android_color = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CompoundButton = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CompoundButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CompoundButton_android_button = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CompoundButton_buttonTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_keylines = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_color = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_fabSize = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ForegroundLinearLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_divider = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ListPopupWindow = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ListPopupWindow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuGroup = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuGroup;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuGroup_android_enabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuGroup_android_id = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuGroup_android_visible = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_actionLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_actionProviderClass = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_actionViewClass = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_checkable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_checked = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_enabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_icon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_id = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_id;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_menuCategory = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_onClick = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_title = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_android_visible = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuItem_showAsAction = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_android_headerBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_android_itemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_android_verticalDivider = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.MenuView_subMenuArrow = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_android_background = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_android_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_android_maxWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_headerLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_itemBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_itemIconTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_itemTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.NavigationView_menu = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.NavigationView_menu;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.PopupWindow = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.PopupWindow;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.PopupWindowBackgroundState = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecycleListView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecycleListView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecyclerView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecyclerView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecyclerView_android_orientation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecyclerView_layoutManager = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecyclerView_reverseLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecyclerView_spanCount = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_android_focusable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_android_imeOptions = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_android_inputType = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_android_maxWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_closeIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_commitIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_defaultQueryHint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_goIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_goIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_queryBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_queryHint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_queryHint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_searchHintIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_searchIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_submitBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SearchView_voiceIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SnackbarLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SnackbarLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SnackbarLayout_elevation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Spinner = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Spinner;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Spinner_android_entries = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Spinner_android_entries;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Spinner_android_popupBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Spinner_android_prompt = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Spinner_popupTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_android_textOff = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_android_textOn = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_android_thumb = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_showText = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_splitTrack = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_switchPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_thumbTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_track = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_track;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_trackTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabItem = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabItem;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabItem_android_icon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabItem_android_icon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabItem_android_layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabItem_android_layout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabItem_android_text = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabItem_android_text;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabBackground = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabContentStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabGravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabMinWidth = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabPadding = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TabLayout_tabTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_textColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_textSize = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_textStyle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_android_typeface = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextAppearance_textAllCaps = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_android_hint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_android_gravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_android_minHeight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_buttonGravity = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_collapseIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_contentInsetRight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_contentInsetStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_logo = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_logo;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_logoDescription = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_navigationIcon = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_popupTheme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_subtitle = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_title = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_title;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleMargin = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleMarginStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleMarginTop = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleMargins = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.Toolbar_titleTextColor = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.View = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.View;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.View_android_focusable = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.View_android_focusable;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.View_android_theme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.View_android_theme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.View_paddingEnd = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.View_paddingEnd;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.View_paddingStart = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.View_paddingStart;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.View_theme = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.View_theme;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewBackgroundHelper = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewStubCompat = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewStubCompat;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewStubCompat_android_id = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::ProgressRingControl.Forms.Plugin.Android.Resource.Styleable.ViewStubCompat_android_layout = global::XFUITimeTrackerDesign.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.CommunityToolkit.Resource.Animation.abc_fade_in = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.CommunityToolkit.Resource.Animation.abc_fade_out = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.CommunityToolkit.Resource.Animation.abc_grow_fade_in_from_bottom = global::XFUITimeTrackerDesign.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -18794,322 +20546,214 @@ namespace XFUITimeTrackerDesign.Droid
 			public const int abc_vector_test = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int Avatar1 = 2131165276;
+			public const int avd_hide_password = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int Avatar10 = 2131165277;
+			public const int avd_show_password = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int Avatar11 = 2131165278;
+			public const int BackImage = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int Avatar12 = 2131165279;
+			public const int btn_checkbox_checked_mtrl = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int Avatar13 = 2131165280;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int Avatar14 = 2131165281;
+			public const int btn_checkbox_unchecked_mtrl = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int Avatar15 = 2131165282;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int Avatar16 = 2131165283;
+			public const int btn_radio_off_mtrl = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int Avatar17 = 2131165284;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int Avatar18 = 2131165285;
+			public const int btn_radio_on_mtrl = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int Avatar19 = 2131165286;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int Avatar2 = 2131165287;
+			public const int Clock = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int Avatar20 = 2131165288;
+			public const int DateRange = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int Avatar21 = 2131165289;
+			public const int design_bottom_navigation_item_background = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int Avatar22 = 2131165290;
+			public const int design_fab_background = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int Avatar23 = 2131165291;
+			public const int design_ic_visibility = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int Avatar24 = 2131165292;
+			public const int design_ic_visibility_off = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int Avatar25 = 2131165293;
+			public const int design_password_eye = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int Avatar26 = 2131165294;
+			public const int design_snackbar_background = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int Avatar27 = 2131165295;
+			public const int DotImage = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int Avatar28 = 2131165296;
+			public const int EditIcon = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int Avatar29 = 2131165297;
-			
-			// aapt resource value: 0x7F070072
-			public const int Avatar3 = 2131165298;
-			
-			// aapt resource value: 0x7F070073
-			public const int Avatar30 = 2131165299;
-			
-			// aapt resource value: 0x7F070074
-			public const int Avatar4 = 2131165300;
-			
-			// aapt resource value: 0x7F070075
-			public const int Avatar5 = 2131165301;
+			public const int FiltterImage = 2131165297;
 			
 			// aapt resource value: 0x7F070076
-			public const int Avatar6 = 2131165302;
+			public const int icon_about = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int Avatar7 = 2131165303;
+			public const int icon_feed = 2131165303;
 			
-			// aapt resource value: 0x7F070078
-			public const int Avatar8 = 2131165304;
+			// aapt resource value: 0x7F070072
+			public const int ic_mtrl_checked_circle = 2131165298;
 			
-			// aapt resource value: 0x7F070079
-			public const int Avatar9 = 2131165305;
+			// aapt resource value: 0x7F070073
+			public const int ic_mtrl_chip_checked_black = 2131165299;
 			
-			// aapt resource value: 0x7F07007A
-			public const int avd_hide_password = 2131165306;
+			// aapt resource value: 0x7F070074
+			public const int ic_mtrl_chip_checked_circle = 2131165300;
 			
-			// aapt resource value: 0x7F07007B
-			public const int avd_show_password = 2131165307;
-			
-			// aapt resource value: 0x7F07007C
-			public const int BackImage = 2131165308;
-			
-			// aapt resource value: 0x7F07007D
-			public const int btn_checkbox_checked_mtrl = 2131165309;
-			
-			// aapt resource value: 0x7F07007E
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165310;
+			// aapt resource value: 0x7F070075
+			public const int ic_mtrl_chip_close_circle = 2131165301;
 			
 			// aapt resource value: 0x7F07007F
-			public const int btn_checkbox_unchecked_mtrl = 2131165311;
+			public const int MaterialActivityIndicatorBackground = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165312;
+			public const int MaterialProgressBar = 2131165312;
+			
+			// aapt resource value: 0x7F070078
+			public const int material_ic_calendar_black_24dp = 2131165304;
+			
+			// aapt resource value: 0x7F070079
+			public const int material_ic_clear_black_24dp = 2131165305;
+			
+			// aapt resource value: 0x7F07007A
+			public const int material_ic_edit_black_24dp = 2131165306;
+			
+			// aapt resource value: 0x7F07007B
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165307;
+			
+			// aapt resource value: 0x7F07007C
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165308;
+			
+			// aapt resource value: 0x7F07007D
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165309;
+			
+			// aapt resource value: 0x7F07007E
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165310;
 			
 			// aapt resource value: 0x7F070081
-			public const int btn_radio_off_mtrl = 2131165313;
+			public const int More = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165314;
+			public const int MoreImage = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int btn_radio_on_mtrl = 2131165315;
+			public const int mtrl_dialog_background = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165316;
+			public const int mtrl_dropdown_arrow = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int clear_button_icon = 2131165317;
+			public const int mtrl_ic_arrow_drop_down = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int DateRange = 2131165318;
+			public const int mtrl_ic_arrow_drop_up = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int design_bottom_navigation_item_background = 2131165319;
+			public const int mtrl_ic_cancel = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int design_fab_background = 2131165320;
+			public const int mtrl_ic_error = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int design_ic_visibility = 2131165321;
+			public const int mtrl_popupmenu_background = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int design_ic_visibility_off = 2131165322;
+			public const int mtrl_popupmenu_background_dark = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int design_password_eye = 2131165323;
+			public const int mtrl_tabs_default_indicator = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int design_snackbar_background = 2131165324;
+			public const int navigation_empty_icon = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int DotImage = 2131165325;
+			public const int NoteImage = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int EditIcon = 2131165326;
+			public const int notification_action_background = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int FiltterImage = 2131165327;
-			
-			// aapt resource value: 0x7F070094
-			public const int icon_about = 2131165332;
-			
-			// aapt resource value: 0x7F070095
-			public const int icon_feed = 2131165333;
+			public const int notification_bg = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int ic_mtrl_checked_circle = 2131165328;
+			public const int notification_bg_low = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int ic_mtrl_chip_checked_black = 2131165329;
+			public const int notification_bg_low_normal = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int ic_mtrl_chip_checked_circle = 2131165330;
+			public const int notification_bg_low_pressed = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int ic_mtrl_chip_close_circle = 2131165331;
+			public const int notification_bg_normal = 2131165331;
 			
-			// aapt resource value: 0x7F070097
-			public const int inputlayout_togglecollapseicon = 2131165335;
+			// aapt resource value: 0x7F070094
+			public const int notification_bg_normal_pressed = 2131165332;
 			
-			// aapt resource value: 0x7F070098
-			public const int inputlayout_togglevisibleicon = 2131165336;
+			// aapt resource value: 0x7F070095
+			public const int notification_icon_background = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int input_layout_drop_down_icon = 2131165334;
+			public const int notification_template_icon_bg = 2131165334;
 			
-			// aapt resource value: 0x7F0700A0
-			public const int MaterialActivityIndicatorBackground = 2131165344;
+			// aapt resource value: 0x7F070097
+			public const int notification_template_icon_low_bg = 2131165335;
 			
-			// aapt resource value: 0x7F0700A1
-			public const int MaterialProgressBar = 2131165345;
+			// aapt resource value: 0x7F070098
+			public const int notification_tile_bg = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int material_ic_calendar_black_24dp = 2131165337;
+			public const int notify_panel_notification_icon_bg = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int material_ic_clear_black_24dp = 2131165338;
+			public const int PlusImage = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int material_ic_edit_black_24dp = 2131165339;
+			public const int Search = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165340;
+			public const int test_custom_background = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165341;
+			public const int TimeImage = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165342;
+			public const int tooltip_frame_dark = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165343;
+			public const int tooltip_frame_light = 2131165343;
 			
-			// aapt resource value: 0x7F0700A2
-			public const int More = 2131165346;
+			// aapt resource value: 0x7F0700A0
+			public const int TwoLineImage = 2131165344;
 			
-			// aapt resource value: 0x7F0700A3
-			public const int MoreImage = 2131165347;
-			
-			// aapt resource value: 0x7F0700A4
-			public const int mtrl_dialog_background = 2131165348;
-			
-			// aapt resource value: 0x7F0700A5
-			public const int mtrl_dropdown_arrow = 2131165349;
-			
-			// aapt resource value: 0x7F0700A6
-			public const int mtrl_ic_arrow_drop_down = 2131165350;
-			
-			// aapt resource value: 0x7F0700A7
-			public const int mtrl_ic_arrow_drop_up = 2131165351;
-			
-			// aapt resource value: 0x7F0700A8
-			public const int mtrl_ic_cancel = 2131165352;
-			
-			// aapt resource value: 0x7F0700A9
-			public const int mtrl_ic_error = 2131165353;
-			
-			// aapt resource value: 0x7F0700AA
-			public const int mtrl_popupmenu_background = 2131165354;
-			
-			// aapt resource value: 0x7F0700AB
-			public const int mtrl_popupmenu_background_dark = 2131165355;
-			
-			// aapt resource value: 0x7F0700AC
-			public const int mtrl_tabs_default_indicator = 2131165356;
-			
-			// aapt resource value: 0x7F0700AD
-			public const int navigation_empty_icon = 2131165357;
-			
-			// aapt resource value: 0x7F0700AE
-			public const int NoteImage = 2131165358;
-			
-			// aapt resource value: 0x7F0700AF
-			public const int notification_action_background = 2131165359;
-			
-			// aapt resource value: 0x7F0700B0
-			public const int notification_bg = 2131165360;
-			
-			// aapt resource value: 0x7F0700B1
-			public const int notification_bg_low = 2131165361;
-			
-			// aapt resource value: 0x7F0700B2
-			public const int notification_bg_low_normal = 2131165362;
-			
-			// aapt resource value: 0x7F0700B3
-			public const int notification_bg_low_pressed = 2131165363;
-			
-			// aapt resource value: 0x7F0700B4
-			public const int notification_bg_normal = 2131165364;
-			
-			// aapt resource value: 0x7F0700B5
-			public const int notification_bg_normal_pressed = 2131165365;
-			
-			// aapt resource value: 0x7F0700B6
-			public const int notification_icon_background = 2131165366;
-			
-			// aapt resource value: 0x7F0700B7
-			public const int notification_template_icon_bg = 2131165367;
-			
-			// aapt resource value: 0x7F0700B8
-			public const int notification_template_icon_low_bg = 2131165368;
-			
-			// aapt resource value: 0x7F0700B9
-			public const int notification_tile_bg = 2131165369;
-			
-			// aapt resource value: 0x7F0700BA
-			public const int notify_panel_notification_icon_bg = 2131165370;
-			
-			// aapt resource value: 0x7F0700BB
-			public const int PlusImage = 2131165371;
-			
-			// aapt resource value: 0x7F0700BC
-			public const int Search = 2131165372;
-			
-			// aapt resource value: 0x7F0700BD
-			public const int sfprogressbar_determinate_linear = 2131165373;
-			
-			// aapt resource value: 0x7F0700BE
-			public const int sfprogressbar_indeterminate_circular = 2131165374;
-			
-			// aapt resource value: 0x7F0700BF
-			public const int sfprogressbar_indeterminate_linear = 2131165375;
-			
-			// aapt resource value: 0x7F0700C0
-			public const int test_custom_background = 2131165376;
-			
-			// aapt resource value: 0x7F0700C1
-			public const int TimeImage = 2131165377;
-			
-			// aapt resource value: 0x7F0700C2
-			public const int tooltip_frame_dark = 2131165378;
-			
-			// aapt resource value: 0x7F0700C3
-			public const int tooltip_frame_light = 2131165379;
-			
-			// aapt resource value: 0x7F0700C4
-			public const int TwoLineImage = 2131165380;
-			
-			// aapt resource value: 0x7F0700C5
-			public const int xamarin_logo = 2131165381;
+			// aapt resource value: 0x7F0700A1
+			public const int xamarin_logo = 2131165345;
 			
 			static Drawable()
 			{
@@ -19839,193 +21483,184 @@ namespace XFUITimeTrackerDesign.Droid
 			public const int select_dialog_listview = 2131230960;
 			
 			// aapt resource value: 0x7F0800F2
-			public const int sfprogressbar_progress = 2131230962;
+			public const int shellcontent_appbar = 2131230962;
 			
 			// aapt resource value: 0x7F0800F3
-			public const int sfprogressbar_secondary_progress = 2131230963;
-			
-			// aapt resource value: 0x7F0800F4
-			public const int sfprogressbar_track = 2131230964;
-			
-			// aapt resource value: 0x7F0800F5
-			public const int shellcontent_appbar = 2131230965;
-			
-			// aapt resource value: 0x7F0800F6
-			public const int shellcontent_toolbar = 2131230966;
+			public const int shellcontent_toolbar = 2131230963;
 			
 			// aapt resource value: 0x7F080006
 			public const int SHIFT = 2131230726;
 			
+			// aapt resource value: 0x7F0800F4
+			public const int shortcut = 2131230964;
+			
+			// aapt resource value: 0x7F0800F5
+			public const int showCustom = 2131230965;
+			
+			// aapt resource value: 0x7F0800F6
+			public const int showHome = 2131230966;
+			
 			// aapt resource value: 0x7F0800F7
-			public const int shortcut = 2131230967;
+			public const int showTitle = 2131230967;
 			
 			// aapt resource value: 0x7F0800F8
-			public const int showCustom = 2131230968;
+			public const int skipCollapsed = 2131230968;
 			
 			// aapt resource value: 0x7F0800F9
-			public const int showHome = 2131230969;
+			public const int slide = 2131230969;
 			
 			// aapt resource value: 0x7F0800FA
-			public const int showTitle = 2131230970;
+			public const int sliding_tabs = 2131230970;
 			
 			// aapt resource value: 0x7F0800FB
-			public const int skipCollapsed = 2131230971;
+			public const int smallLabel = 2131230971;
 			
 			// aapt resource value: 0x7F0800FC
-			public const int slide = 2131230972;
+			public const int snackbar_action = 2131230972;
 			
 			// aapt resource value: 0x7F0800FD
-			public const int sliding_tabs = 2131230973;
+			public const int snackbar_text = 2131230973;
 			
 			// aapt resource value: 0x7F0800FE
-			public const int smallLabel = 2131230974;
+			public const int snap = 2131230974;
 			
 			// aapt resource value: 0x7F0800FF
-			public const int snackbar_action = 2131230975;
+			public const int snapMargins = 2131230975;
 			
 			// aapt resource value: 0x7F080100
-			public const int snackbar_text = 2131230976;
+			public const int spacer = 2131230976;
 			
 			// aapt resource value: 0x7F080101
-			public const int snap = 2131230977;
+			public const int split_action_bar = 2131230977;
 			
 			// aapt resource value: 0x7F080102
-			public const int snapMargins = 2131230978;
+			public const int src_atop = 2131230978;
 			
 			// aapt resource value: 0x7F080103
-			public const int spacer = 2131230979;
+			public const int src_in = 2131230979;
 			
 			// aapt resource value: 0x7F080104
-			public const int split_action_bar = 2131230980;
+			public const int src_over = 2131230980;
 			
 			// aapt resource value: 0x7F080105
-			public const int src_atop = 2131230981;
+			public const int start = 2131230981;
 			
 			// aapt resource value: 0x7F080106
-			public const int src_in = 2131230982;
+			public const int status_bar_latest_event_content = 2131230982;
 			
 			// aapt resource value: 0x7F080107
-			public const int src_over = 2131230983;
+			public const int stretch = 2131230983;
 			
 			// aapt resource value: 0x7F080108
-			public const int start = 2131230984;
+			public const int submenuarrow = 2131230984;
 			
 			// aapt resource value: 0x7F080109
-			public const int status_bar_latest_event_content = 2131230985;
-			
-			// aapt resource value: 0x7F08010A
-			public const int stretch = 2131230986;
-			
-			// aapt resource value: 0x7F08010B
-			public const int submenuarrow = 2131230987;
-			
-			// aapt resource value: 0x7F08010C
-			public const int submit_area = 2131230988;
+			public const int submit_area = 2131230985;
 			
 			// aapt resource value: 0x7F080007
 			public const int SYM = 2131230727;
 			
+			// aapt resource value: 0x7F08010A
+			public const int tabMode = 2131230986;
+			
+			// aapt resource value: 0x7F08010B
+			public const int tag_accessibility_actions = 2131230987;
+			
+			// aapt resource value: 0x7F08010C
+			public const int tag_accessibility_clickable_spans = 2131230988;
+			
 			// aapt resource value: 0x7F08010D
-			public const int tabMode = 2131230989;
+			public const int tag_accessibility_heading = 2131230989;
 			
 			// aapt resource value: 0x7F08010E
-			public const int tag_accessibility_actions = 2131230990;
+			public const int tag_accessibility_pane_title = 2131230990;
 			
 			// aapt resource value: 0x7F08010F
-			public const int tag_accessibility_clickable_spans = 2131230991;
+			public const int tag_screen_reader_focusable = 2131230991;
 			
 			// aapt resource value: 0x7F080110
-			public const int tag_accessibility_heading = 2131230992;
+			public const int tag_transition_group = 2131230992;
 			
 			// aapt resource value: 0x7F080111
-			public const int tag_accessibility_pane_title = 2131230993;
+			public const int tag_unhandled_key_event_manager = 2131230993;
 			
 			// aapt resource value: 0x7F080112
-			public const int tag_screen_reader_focusable = 2131230994;
+			public const int tag_unhandled_key_listeners = 2131230994;
 			
 			// aapt resource value: 0x7F080113
-			public const int tag_transition_group = 2131230995;
+			public const int test_checkbox_android_button_tint = 2131230995;
 			
 			// aapt resource value: 0x7F080114
-			public const int tag_unhandled_key_event_manager = 2131230996;
+			public const int test_checkbox_app_button_tint = 2131230996;
 			
 			// aapt resource value: 0x7F080115
-			public const int tag_unhandled_key_listeners = 2131230997;
+			public const int test_radiobutton_android_button_tint = 2131230997;
 			
 			// aapt resource value: 0x7F080116
-			public const int test_checkbox_android_button_tint = 2131230998;
+			public const int test_radiobutton_app_button_tint = 2131230998;
 			
 			// aapt resource value: 0x7F080117
-			public const int test_checkbox_app_button_tint = 2131230999;
+			public const int text = 2131230999;
 			
 			// aapt resource value: 0x7F080118
-			public const int test_radiobutton_android_button_tint = 2131231000;
+			public const int text2 = 2131231000;
 			
 			// aapt resource value: 0x7F080119
-			public const int test_radiobutton_app_button_tint = 2131231001;
-			
-			// aapt resource value: 0x7F08011A
-			public const int text = 2131231002;
-			
-			// aapt resource value: 0x7F08011B
-			public const int text2 = 2131231003;
-			
-			// aapt resource value: 0x7F08011C
-			public const int textEnd = 2131231004;
-			
-			// aapt resource value: 0x7F080122
-			public const int textinput_counter = 2131231010;
-			
-			// aapt resource value: 0x7F080123
-			public const int textinput_error = 2131231011;
-			
-			// aapt resource value: 0x7F080124
-			public const int textinput_helper_text = 2131231012;
-			
-			// aapt resource value: 0x7F080125
-			public const int textinput_placeholder = 2131231013;
-			
-			// aapt resource value: 0x7F080126
-			public const int textinput_prefix_text = 2131231014;
-			
-			// aapt resource value: 0x7F080127
-			public const int textinput_suffix_text = 2131231015;
-			
-			// aapt resource value: 0x7F08011D
-			public const int textSpacerNoButtons = 2131231005;
-			
-			// aapt resource value: 0x7F08011E
-			public const int textSpacerNoTitle = 2131231006;
+			public const int textEnd = 2131231001;
 			
 			// aapt resource value: 0x7F08011F
-			public const int textStart = 2131231007;
+			public const int textinput_counter = 2131231007;
 			
 			// aapt resource value: 0x7F080120
-			public const int text_input_end_icon = 2131231008;
+			public const int textinput_error = 2131231008;
 			
 			// aapt resource value: 0x7F080121
-			public const int text_input_start_icon = 2131231009;
+			public const int textinput_helper_text = 2131231009;
+			
+			// aapt resource value: 0x7F080122
+			public const int textinput_placeholder = 2131231010;
+			
+			// aapt resource value: 0x7F080123
+			public const int textinput_prefix_text = 2131231011;
+			
+			// aapt resource value: 0x7F080124
+			public const int textinput_suffix_text = 2131231012;
+			
+			// aapt resource value: 0x7F08011A
+			public const int textSpacerNoButtons = 2131231002;
+			
+			// aapt resource value: 0x7F08011B
+			public const int textSpacerNoTitle = 2131231003;
+			
+			// aapt resource value: 0x7F08011C
+			public const int textStart = 2131231004;
+			
+			// aapt resource value: 0x7F08011D
+			public const int text_input_end_icon = 2131231005;
+			
+			// aapt resource value: 0x7F08011E
+			public const int text_input_start_icon = 2131231006;
+			
+			// aapt resource value: 0x7F080125
+			public const int time = 2131231013;
+			
+			// aapt resource value: 0x7F080126
+			public const int title = 2131231014;
+			
+			// aapt resource value: 0x7F080127
+			public const int titleDividerNoCustom = 2131231015;
 			
 			// aapt resource value: 0x7F080128
-			public const int time = 2131231016;
+			public const int title_template = 2131231016;
 			
 			// aapt resource value: 0x7F080129
-			public const int title = 2131231017;
+			public const int toolbar = 2131231017;
 			
 			// aapt resource value: 0x7F08012A
-			public const int titleDividerNoCustom = 2131231018;
+			public const int top = 2131231018;
 			
 			// aapt resource value: 0x7F08012B
-			public const int title_template = 2131231019;
-			
-			// aapt resource value: 0x7F08012C
-			public const int toolbar = 2131231020;
-			
-			// aapt resource value: 0x7F08012D
-			public const int top = 2131231021;
-			
-			// aapt resource value: 0x7F08012E
-			public const int topPanel = 2131231022;
+			public const int topPanel = 2131231019;
 			
 			// aapt resource value: 0x7F080008
 			public const int TOP_END = 2131230728;
@@ -20033,62 +21668,62 @@ namespace XFUITimeTrackerDesign.Droid
 			// aapt resource value: 0x7F080009
 			public const int TOP_START = 2131230729;
 			
+			// aapt resource value: 0x7F08012C
+			public const int touch_outside = 2131231020;
+			
+			// aapt resource value: 0x7F08012D
+			public const int transition_current_scene = 2131231021;
+			
+			// aapt resource value: 0x7F08012E
+			public const int transition_layout_save = 2131231022;
+			
 			// aapt resource value: 0x7F08012F
-			public const int touch_outside = 2131231023;
+			public const int transition_position = 2131231023;
 			
 			// aapt resource value: 0x7F080130
-			public const int transition_current_scene = 2131231024;
+			public const int transition_scene_layoutid_cache = 2131231024;
 			
 			// aapt resource value: 0x7F080131
-			public const int transition_layout_save = 2131231025;
+			public const int transition_transform = 2131231025;
 			
 			// aapt resource value: 0x7F080132
-			public const int transition_position = 2131231026;
+			public const int @unchecked = 2131231026;
 			
 			// aapt resource value: 0x7F080133
-			public const int transition_scene_layoutid_cache = 2131231027;
+			public const int uniform = 2131231027;
 			
 			// aapt resource value: 0x7F080134
-			public const int transition_transform = 2131231028;
+			public const int unlabeled = 2131231028;
 			
 			// aapt resource value: 0x7F080135
-			public const int @unchecked = 2131231029;
+			public const int up = 2131231029;
 			
 			// aapt resource value: 0x7F080136
-			public const int uniform = 2131231030;
+			public const int useLogo = 2131231030;
 			
 			// aapt resource value: 0x7F080137
-			public const int unlabeled = 2131231031;
+			public const int view_offset_helper = 2131231031;
 			
 			// aapt resource value: 0x7F080138
-			public const int up = 2131231032;
+			public const int view_tree_saved_state_registry_owner = 2131231032;
 			
 			// aapt resource value: 0x7F080139
-			public const int useLogo = 2131231033;
+			public const int visible = 2131231033;
 			
 			// aapt resource value: 0x7F08013A
-			public const int view_offset_helper = 2131231034;
-			
-			// aapt resource value: 0x7F08013B
-			public const int view_tree_saved_state_registry_owner = 2131231035;
+			public const int visible_removing_fragment_view_tag = 2131231034;
 			
 			// aapt resource value: 0x7F08013C
-			public const int visible = 2131231036;
+			public const int withinBounds = 2131231036;
+			
+			// aapt resource value: 0x7F08013B
+			public const int withText = 2131231035;
 			
 			// aapt resource value: 0x7F08013D
-			public const int visible_removing_fragment_view_tag = 2131231037;
-			
-			// aapt resource value: 0x7F08013F
-			public const int withinBounds = 2131231039;
+			public const int wrap_content = 2131231037;
 			
 			// aapt resource value: 0x7F08013E
-			public const int withText = 2131231038;
-			
-			// aapt resource value: 0x7F080140
-			public const int wrap_content = 2131231040;
-			
-			// aapt resource value: 0x7F080141
-			public const int zero_corner_chip = 2131231041;
+			public const int zero_corner_chip = 2131231038;
 			
 			static Id()
 			{
@@ -20630,287 +22265,278 @@ namespace XFUITimeTrackerDesign.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0E0003
-			public const int abc_action_bar_home_description = 2131623939;
-			
-			// aapt resource value: 0x7F0E0004
-			public const int abc_action_bar_up_description = 2131623940;
-			
-			// aapt resource value: 0x7F0E0005
-			public const int abc_action_menu_overflow_description = 2131623941;
-			
-			// aapt resource value: 0x7F0E0006
-			public const int abc_action_mode_done = 2131623942;
-			
-			// aapt resource value: 0x7F0E0008
-			public const int abc_activitychooserview_choose_application = 2131623944;
-			
-			// aapt resource value: 0x7F0E0007
-			public const int abc_activity_chooser_view_see_all = 2131623943;
-			
-			// aapt resource value: 0x7F0E0009
-			public const int abc_capital_off = 2131623945;
-			
-			// aapt resource value: 0x7F0E000A
-			public const int abc_capital_on = 2131623946;
-			
-			// aapt resource value: 0x7F0E000B
-			public const int abc_menu_alt_shortcut_label = 2131623947;
-			
-			// aapt resource value: 0x7F0E000C
-			public const int abc_menu_ctrl_shortcut_label = 2131623948;
-			
-			// aapt resource value: 0x7F0E000D
-			public const int abc_menu_delete_shortcut_label = 2131623949;
-			
-			// aapt resource value: 0x7F0E000E
-			public const int abc_menu_enter_shortcut_label = 2131623950;
-			
-			// aapt resource value: 0x7F0E000F
-			public const int abc_menu_function_shortcut_label = 2131623951;
-			
-			// aapt resource value: 0x7F0E0010
-			public const int abc_menu_meta_shortcut_label = 2131623952;
-			
-			// aapt resource value: 0x7F0E0011
-			public const int abc_menu_shift_shortcut_label = 2131623953;
-			
-			// aapt resource value: 0x7F0E0012
-			public const int abc_menu_space_shortcut_label = 2131623954;
-			
-			// aapt resource value: 0x7F0E0013
-			public const int abc_menu_sym_shortcut_label = 2131623955;
-			
-			// aapt resource value: 0x7F0E0014
-			public const int abc_prepend_shortcut_label = 2131623956;
-			
-			// aapt resource value: 0x7F0E0016
-			public const int abc_searchview_description_clear = 2131623958;
-			
-			// aapt resource value: 0x7F0E0017
-			public const int abc_searchview_description_query = 2131623959;
-			
-			// aapt resource value: 0x7F0E0018
-			public const int abc_searchview_description_search = 2131623960;
-			
-			// aapt resource value: 0x7F0E0019
-			public const int abc_searchview_description_submit = 2131623961;
-			
-			// aapt resource value: 0x7F0E001A
-			public const int abc_searchview_description_voice = 2131623962;
-			
-			// aapt resource value: 0x7F0E0015
-			public const int abc_search_hint = 2131623957;
-			
-			// aapt resource value: 0x7F0E001B
-			public const int abc_shareactionprovider_share_with = 2131623963;
-			
-			// aapt resource value: 0x7F0E001C
-			public const int abc_shareactionprovider_share_with_application = 2131623964;
-			
-			// aapt resource value: 0x7F0E001D
-			public const int abc_toolbar_collapse_description = 2131623965;
-			
-			// aapt resource value: 0x7F0E001E
-			public const int appbar_scrolling_view_behavior = 2131623966;
-			
 			// aapt resource value: 0x7F0E0000
-			public const int ApplicationName = 2131623936;
-			
-			// aapt resource value: 0x7F0E001F
-			public const int bottom_sheet_behavior = 2131623967;
-			
-			// aapt resource value: 0x7F0E0020
-			public const int character_counter_content_description = 2131623968;
-			
-			// aapt resource value: 0x7F0E0021
-			public const int character_counter_overflowed_content_description = 2131623969;
-			
-			// aapt resource value: 0x7F0E0022
-			public const int character_counter_pattern = 2131623970;
-			
-			// aapt resource value: 0x7F0E0023
-			public const int chip_text = 2131623971;
-			
-			// aapt resource value: 0x7F0E0024
-			public const int clear_text_end_icon_content_description = 2131623972;
-			
-			// aapt resource value: 0x7F0E0025
-			public const int copy_toast_msg = 2131623973;
-			
-			// aapt resource value: 0x7F0E0026
-			public const int error_icon_content_description = 2131623974;
-			
-			// aapt resource value: 0x7F0E0027
-			public const int exposed_dropdown_menu_content_description = 2131623975;
-			
-			// aapt resource value: 0x7F0E0028
-			public const int fab_transformation_scrim_behavior = 2131623976;
-			
-			// aapt resource value: 0x7F0E0029
-			public const int fab_transformation_sheet_behavior = 2131623977;
-			
-			// aapt resource value: 0x7F0E002A
-			public const int fallback_menu_item_copy_link = 2131623978;
-			
-			// aapt resource value: 0x7F0E002B
-			public const int fallback_menu_item_open_in_browser = 2131623979;
-			
-			// aapt resource value: 0x7F0E002C
-			public const int fallback_menu_item_share_link = 2131623980;
+			public const int abc_action_bar_home_description = 2131623936;
 			
 			// aapt resource value: 0x7F0E0001
-			public const int Hello = 2131623937;
-			
-			// aapt resource value: 0x7F0E002D
-			public const int hide_bottom_view_on_scroll_behavior = 2131623981;
-			
-			// aapt resource value: 0x7F0E002E
-			public const int icon_content_description = 2131623982;
-			
-			// aapt resource value: 0x7F0E002F
-			public const int item_view_role_description = 2131623983;
-			
-			// aapt resource value: 0x7F0E0030
-			public const int library_name = 2131623984;
+			public const int abc_action_bar_up_description = 2131623937;
 			
 			// aapt resource value: 0x7F0E0002
-			public const int Load_More = 2131623938;
+			public const int abc_action_menu_overflow_description = 2131623938;
+			
+			// aapt resource value: 0x7F0E0003
+			public const int abc_action_mode_done = 2131623939;
+			
+			// aapt resource value: 0x7F0E0005
+			public const int abc_activitychooserview_choose_application = 2131623941;
+			
+			// aapt resource value: 0x7F0E0004
+			public const int abc_activity_chooser_view_see_all = 2131623940;
+			
+			// aapt resource value: 0x7F0E0006
+			public const int abc_capital_off = 2131623942;
+			
+			// aapt resource value: 0x7F0E0007
+			public const int abc_capital_on = 2131623943;
+			
+			// aapt resource value: 0x7F0E0008
+			public const int abc_menu_alt_shortcut_label = 2131623944;
+			
+			// aapt resource value: 0x7F0E0009
+			public const int abc_menu_ctrl_shortcut_label = 2131623945;
+			
+			// aapt resource value: 0x7F0E000A
+			public const int abc_menu_delete_shortcut_label = 2131623946;
+			
+			// aapt resource value: 0x7F0E000B
+			public const int abc_menu_enter_shortcut_label = 2131623947;
+			
+			// aapt resource value: 0x7F0E000C
+			public const int abc_menu_function_shortcut_label = 2131623948;
+			
+			// aapt resource value: 0x7F0E000D
+			public const int abc_menu_meta_shortcut_label = 2131623949;
+			
+			// aapt resource value: 0x7F0E000E
+			public const int abc_menu_shift_shortcut_label = 2131623950;
+			
+			// aapt resource value: 0x7F0E000F
+			public const int abc_menu_space_shortcut_label = 2131623951;
+			
+			// aapt resource value: 0x7F0E0010
+			public const int abc_menu_sym_shortcut_label = 2131623952;
+			
+			// aapt resource value: 0x7F0E0011
+			public const int abc_prepend_shortcut_label = 2131623953;
+			
+			// aapt resource value: 0x7F0E0013
+			public const int abc_searchview_description_clear = 2131623955;
+			
+			// aapt resource value: 0x7F0E0014
+			public const int abc_searchview_description_query = 2131623956;
+			
+			// aapt resource value: 0x7F0E0015
+			public const int abc_searchview_description_search = 2131623957;
+			
+			// aapt resource value: 0x7F0E0016
+			public const int abc_searchview_description_submit = 2131623958;
+			
+			// aapt resource value: 0x7F0E0017
+			public const int abc_searchview_description_voice = 2131623959;
+			
+			// aapt resource value: 0x7F0E0012
+			public const int abc_search_hint = 2131623954;
+			
+			// aapt resource value: 0x7F0E0018
+			public const int abc_shareactionprovider_share_with = 2131623960;
+			
+			// aapt resource value: 0x7F0E0019
+			public const int abc_shareactionprovider_share_with_application = 2131623961;
+			
+			// aapt resource value: 0x7F0E001A
+			public const int abc_toolbar_collapse_description = 2131623962;
+			
+			// aapt resource value: 0x7F0E001B
+			public const int appbar_scrolling_view_behavior = 2131623963;
+			
+			// aapt resource value: 0x7F0E001C
+			public const int bottom_sheet_behavior = 2131623964;
+			
+			// aapt resource value: 0x7F0E001D
+			public const int character_counter_content_description = 2131623965;
+			
+			// aapt resource value: 0x7F0E001E
+			public const int character_counter_overflowed_content_description = 2131623966;
+			
+			// aapt resource value: 0x7F0E001F
+			public const int character_counter_pattern = 2131623967;
+			
+			// aapt resource value: 0x7F0E0020
+			public const int chip_text = 2131623968;
+			
+			// aapt resource value: 0x7F0E0021
+			public const int clear_text_end_icon_content_description = 2131623969;
+			
+			// aapt resource value: 0x7F0E0022
+			public const int copy_toast_msg = 2131623970;
+			
+			// aapt resource value: 0x7F0E0023
+			public const int error_icon_content_description = 2131623971;
+			
+			// aapt resource value: 0x7F0E0024
+			public const int exposed_dropdown_menu_content_description = 2131623972;
+			
+			// aapt resource value: 0x7F0E0025
+			public const int fab_transformation_scrim_behavior = 2131623973;
+			
+			// aapt resource value: 0x7F0E0026
+			public const int fab_transformation_sheet_behavior = 2131623974;
+			
+			// aapt resource value: 0x7F0E0027
+			public const int fallback_menu_item_copy_link = 2131623975;
+			
+			// aapt resource value: 0x7F0E0028
+			public const int fallback_menu_item_open_in_browser = 2131623976;
+			
+			// aapt resource value: 0x7F0E0029
+			public const int fallback_menu_item_share_link = 2131623977;
+			
+			// aapt resource value: 0x7F0E002A
+			public const int hide_bottom_view_on_scroll_behavior = 2131623978;
+			
+			// aapt resource value: 0x7F0E002B
+			public const int icon_content_description = 2131623979;
+			
+			// aapt resource value: 0x7F0E002C
+			public const int item_view_role_description = 2131623980;
+			
+			// aapt resource value: 0x7F0E002D
+			public const int library_name = 2131623981;
+			
+			// aapt resource value: 0x7F0E002E
+			public const int material_slider_range_end = 2131623982;
+			
+			// aapt resource value: 0x7F0E002F
+			public const int material_slider_range_start = 2131623983;
+			
+			// aapt resource value: 0x7F0E0030
+			public const int mtrl_badge_numberless_content_description = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int material_slider_range_end = 2131623985;
+			public const int mtrl_chip_close_icon_content_description = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int material_slider_range_start = 2131623986;
+			public const int mtrl_exceed_max_badge_number_content_description = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int mtrl_badge_numberless_content_description = 2131623987;
+			public const int mtrl_exceed_max_badge_number_suffix = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int mtrl_chip_close_icon_content_description = 2131623988;
+			public const int mtrl_picker_a11y_next_month = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int mtrl_exceed_max_badge_number_content_description = 2131623989;
+			public const int mtrl_picker_a11y_prev_month = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int mtrl_exceed_max_badge_number_suffix = 2131623990;
+			public const int mtrl_picker_announce_current_selection = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int mtrl_picker_a11y_next_month = 2131623991;
+			public const int mtrl_picker_cancel = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int mtrl_picker_a11y_prev_month = 2131623992;
+			public const int mtrl_picker_confirm = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int mtrl_picker_announce_current_selection = 2131623993;
+			public const int mtrl_picker_date_header_selected = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int mtrl_picker_cancel = 2131623994;
+			public const int mtrl_picker_date_header_title = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int mtrl_picker_confirm = 2131623995;
+			public const int mtrl_picker_date_header_unselected = 2131623995;
 			
 			// aapt resource value: 0x7F0E003C
-			public const int mtrl_picker_date_header_selected = 2131623996;
+			public const int mtrl_picker_day_of_week_column_header = 2131623996;
 			
 			// aapt resource value: 0x7F0E003D
-			public const int mtrl_picker_date_header_title = 2131623997;
+			public const int mtrl_picker_invalid_format = 2131623997;
 			
 			// aapt resource value: 0x7F0E003E
-			public const int mtrl_picker_date_header_unselected = 2131623998;
+			public const int mtrl_picker_invalid_format_example = 2131623998;
 			
 			// aapt resource value: 0x7F0E003F
-			public const int mtrl_picker_day_of_week_column_header = 2131623999;
+			public const int mtrl_picker_invalid_format_use = 2131623999;
 			
 			// aapt resource value: 0x7F0E0040
-			public const int mtrl_picker_invalid_format = 2131624000;
+			public const int mtrl_picker_invalid_range = 2131624000;
 			
 			// aapt resource value: 0x7F0E0041
-			public const int mtrl_picker_invalid_format_example = 2131624001;
+			public const int mtrl_picker_navigate_to_year_description = 2131624001;
 			
 			// aapt resource value: 0x7F0E0042
-			public const int mtrl_picker_invalid_format_use = 2131624002;
+			public const int mtrl_picker_out_of_range = 2131624002;
 			
 			// aapt resource value: 0x7F0E0043
-			public const int mtrl_picker_invalid_range = 2131624003;
+			public const int mtrl_picker_range_header_only_end_selected = 2131624003;
 			
 			// aapt resource value: 0x7F0E0044
-			public const int mtrl_picker_navigate_to_year_description = 2131624004;
+			public const int mtrl_picker_range_header_only_start_selected = 2131624004;
 			
 			// aapt resource value: 0x7F0E0045
-			public const int mtrl_picker_out_of_range = 2131624005;
+			public const int mtrl_picker_range_header_selected = 2131624005;
 			
 			// aapt resource value: 0x7F0E0046
-			public const int mtrl_picker_range_header_only_end_selected = 2131624006;
+			public const int mtrl_picker_range_header_title = 2131624006;
 			
 			// aapt resource value: 0x7F0E0047
-			public const int mtrl_picker_range_header_only_start_selected = 2131624007;
+			public const int mtrl_picker_range_header_unselected = 2131624007;
 			
 			// aapt resource value: 0x7F0E0048
-			public const int mtrl_picker_range_header_selected = 2131624008;
+			public const int mtrl_picker_save = 2131624008;
 			
 			// aapt resource value: 0x7F0E0049
-			public const int mtrl_picker_range_header_title = 2131624009;
+			public const int mtrl_picker_text_input_date_hint = 2131624009;
 			
 			// aapt resource value: 0x7F0E004A
-			public const int mtrl_picker_range_header_unselected = 2131624010;
+			public const int mtrl_picker_text_input_date_range_end_hint = 2131624010;
 			
 			// aapt resource value: 0x7F0E004B
-			public const int mtrl_picker_save = 2131624011;
+			public const int mtrl_picker_text_input_date_range_start_hint = 2131624011;
 			
 			// aapt resource value: 0x7F0E004C
-			public const int mtrl_picker_text_input_date_hint = 2131624012;
+			public const int mtrl_picker_text_input_day_abbr = 2131624012;
 			
 			// aapt resource value: 0x7F0E004D
-			public const int mtrl_picker_text_input_date_range_end_hint = 2131624013;
+			public const int mtrl_picker_text_input_month_abbr = 2131624013;
 			
 			// aapt resource value: 0x7F0E004E
-			public const int mtrl_picker_text_input_date_range_start_hint = 2131624014;
+			public const int mtrl_picker_text_input_year_abbr = 2131624014;
 			
 			// aapt resource value: 0x7F0E004F
-			public const int mtrl_picker_text_input_day_abbr = 2131624015;
+			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624015;
 			
 			// aapt resource value: 0x7F0E0050
-			public const int mtrl_picker_text_input_month_abbr = 2131624016;
+			public const int mtrl_picker_toggle_to_day_selection = 2131624016;
 			
 			// aapt resource value: 0x7F0E0051
-			public const int mtrl_picker_text_input_year_abbr = 2131624017;
+			public const int mtrl_picker_toggle_to_text_input_mode = 2131624017;
 			
 			// aapt resource value: 0x7F0E0052
-			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624018;
+			public const int mtrl_picker_toggle_to_year_selection = 2131624018;
 			
 			// aapt resource value: 0x7F0E0053
-			public const int mtrl_picker_toggle_to_day_selection = 2131624019;
+			public const int overflow_tab_title = 2131624019;
 			
 			// aapt resource value: 0x7F0E0054
-			public const int mtrl_picker_toggle_to_text_input_mode = 2131624020;
+			public const int password_toggle_content_description = 2131624020;
 			
 			// aapt resource value: 0x7F0E0055
-			public const int mtrl_picker_toggle_to_year_selection = 2131624021;
+			public const int path_password_eye = 2131624021;
 			
 			// aapt resource value: 0x7F0E0056
-			public const int overflow_tab_title = 2131624022;
+			public const int path_password_eye_mask_strike_through = 2131624022;
 			
 			// aapt resource value: 0x7F0E0057
-			public const int password_toggle_content_description = 2131624023;
+			public const int path_password_eye_mask_visible = 2131624023;
 			
 			// aapt resource value: 0x7F0E0058
-			public const int path_password_eye = 2131624024;
+			public const int path_password_strike_through = 2131624024;
 			
 			// aapt resource value: 0x7F0E0059
-			public const int path_password_eye_mask_strike_through = 2131624025;
+			public const int search_menu_title = 2131624025;
 			
 			// aapt resource value: 0x7F0E005A
-			public const int path_password_eye_mask_visible = 2131624026;
-			
-			// aapt resource value: 0x7F0E005B
-			public const int path_password_strike_through = 2131624027;
-			
-			// aapt resource value: 0x7F0E005C
-			public const int search_menu_title = 2131624028;
-			
-			// aapt resource value: 0x7F0E005D
-			public const int status_bar_notification_info_overflow = 2131624029;
+			public const int status_bar_notification_info_overflow = 2131624026;
 			
 			static String()
 			{

@@ -9,5 +9,6 @@ namespace XFUITimeTrackerDesign.Models
         public string StartDate { get; set; }
         public string EndDate { get; set; }
         public string TaskDescription { get; set; }
+        public string NameSort => AddDate.ToString();
     }
 }

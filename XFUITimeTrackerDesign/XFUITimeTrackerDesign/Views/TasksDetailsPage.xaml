@@ -3,20 +3,39 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
              xmlns:models="clr-namespace:XFUITimeTrackerDesign.ViewModels"
-             xmlns:progressBar="clr-namespace:Syncfusion.XForms.ProgressBar;assembly=Syncfusion.SfProgressBar.XForms" xmlns:syncfusion="clr-namespace:Syncfusion.ListView.XForms;assembly=Syncfusion.SfListView.XForms"
-             NavigationPage.HasNavigationBar="False"
-             Visual="Material"
-             BackgroundColor="#535453"
-             x:Class="XFUITimeTrackerDesign.Views.TasksDetailsPage">
-    <ContentPage.BindingContext>
-        <models:TasksDetailPageViewModel/>
-    </ContentPage.BindingContext>
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewmodels="clr-namespace:XFUITimeTrackerDesign.ViewModels" 
+             xmlns:progressBar="clr-namespace:Syncfusion.XForms.ProgressBar;assembly=Syncfusion.SfProgressBar.XForms" 
+             xmlns:models1="clr-namespace:XFUITimeTrackerDesign.Models"
+             x:Class="XFUITimeTrackerDesign.Views.TasksDetailsPage"
+             xmlns:viewMod="clr-namespace:XFUITimeTrackerDesign.ViewModels"
+             xmlns:control="clr-namespace:ProgressRingControl.Forms.Plugin;assembly=ProgressRing.Forms.Plugin"
+             xmlns:local="clr-namespace:XFUITimeTrackerDesign.Helpers"
+             x:DataType="viewmodels:TasksMainPageViewModel"
+             mc:Ignorable="d">
+
+    <d:ContentPage.BindingContext>
+        <viewmodels:TasksMainPageViewModel IsBusy="True">
+            <x:Arguments>
+                <x:Boolean>false</x:Boolean>
+            </x:Arguments>
+        </viewmodels:TasksMainPageViewModel>
+    </d:ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ValueProgressBarConverter x:Key="ValueProgressBar" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
     <ContentPage.Content>
         <Grid Visual="Material" BackgroundColor="#535453" RowDefinitions="70,*" RowSpacing="0">
             <StackLayout  Visual="Material" Grid.Row="0" HeightRequest="70" BackgroundColor="#535453">
                 <Grid ColumnDefinitions="Auto,Auto,Auto,Auto" HeightRequest="70">
                     <ImageButton Visual="Material"
-                                 Command="{Binding CloseTasksDetailsPageCommand}"
+                                 x:Name="ButtonClose"
+                                 Clicked="ButtonClose_Clicked"
                                  Grid.Column="0"
                                  Margin="20,0,0,0"
                                  VerticalOptions="Center"
@@ -61,37 +80,34 @@
                     <xct:TabViewItem Visual="Material" Text="overview" TextColorSelected="WhiteSmoke" FontAttributes="Bold" FontFamily="FontAbhayaLibreBold" 
                              TextColor="WhiteSmoke">
                         <Grid BackgroundColor="#535453" RowDefinitions="Auto,Auto,Auto,*" RowSpacing="0" Margin="0">
-                            <StackLayout Grid.Row="0">
-                                <progressBar:SfCircularProgressBar x:Name="CustomContentCircularProgressBar" TrackColor="White" IndeterminateEasingEffect="BounceIn" IsIndeterminate="False" ProgressColor="Orange" Margin="35,10,40,0" HeightRequest="200" WidthRequest="200" Progress="50" HorizontalOptions="Center" >
-                                    <progressBar:SfCircularProgressBar.Content>
-                                        <Grid Margin="0" HeightRequest="100" WidthRequest="100">
-                                            <Grid.RowDefinitions>
-                                                <RowDefinition Height="Auto"/>
-                                                <RowDefinition Height="Auto"/>
-                                            </Grid.RowDefinitions>
-                                            <Label x:Name="CustomContentProgressBarLabel"
-                                                   Margin="20,25,0,0"
-                                                   Visual="Material"
-                                                   VerticalOptions="Center"
-                                                   HorizontalOptions="Center"
-                                                   Grid.Row="0" TextColor="White"
-                                                   Style="{StaticResource OnboardingHeader}"
-                                                   Text="{Binding Progress,StringFormat='{0} %'}" 
-                                                   BindingContext="{x:Reference CustomContentCircularProgressBar}" 
-                                                   HorizontalTextAlignment="Center" VerticalTextAlignment="End">
-                                            </Label>
-                                            <ImageButton Grid.Row="1" 
-                                                   Visual="Material"      
-                                                   BackgroundColor="Transparent" 
-                                                   HeightRequest="8"
-                                                   WidthRequest="8"      
-                                                   VerticalOptions="Start"
-                                                   Margin="20,-38,0,0"
-                                                   Source="DotImage.png">
-                                            </ImageButton>
-                                        </Grid>
-                                    </progressBar:SfCircularProgressBar.Content>
-                                </progressBar:SfCircularProgressBar>
+                            <StackLayout Grid.Row="0" Margin="0,55,0,50">
+                                <control:ProgressRing Visual="Material" Margin="0,15,0,0" 
+                                                      HeightRequest="80"
+                                                      ProgressColor="Orange"
+                                                      Scale="2"
+                                                      RingProgressColor="Orange"
+                                                      RingBaseColor="White"
+                                                      WidthRequest="80" 
+                                                      RingThickness="2" 
+                                                      Progress="{Binding ProgressValue , Converter={StaticResource ValueProgressBar},Mode=TwoWay}"/>
+                                <StackLayout VerticalOptions="CenterAndExpand" Margin="0,-80,0,30">
+                                    <Label Style="{StaticResource PageHeader}"
+                                           VerticalOptions="Center" 
+                                           HorizontalOptions="Center"
+                                           FontSize="50"
+                                           Text="{Binding ProgressValue, StringFormat='{0}'}"/>
+                                    <Label Text="%"
+                                           Margin="80,-80,0,0"
+                                           FontSize="35"
+                                           HorizontalOptions="CenterAndExpand"
+                                           Style="{StaticResource PageHeader}"
+                                           HorizontalTextAlignment="Center"/>
+                                    <Image Source="DotImage.png"
+                                           Margin="48,-28,0,0"
+                                           HeightRequest="7"
+                                           WidthRequest="7"
+                                           HorizontalOptions="CenterAndExpand"/>
+                                </StackLayout>
                             </StackLayout>
                             <StackLayout Grid.Row="1" Margin="0,-6,0,0" Orientation="Horizontal" HeightRequest="60">
                                 <StackLayout Margin="0" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
@@ -103,35 +119,38 @@
                                     <Label Text="8 from 16" VerticalOptions="CenterAndExpand" FontSize="12" Style="{StaticResource SubHeader}"/>
                                 </StackLayout>
                             </StackLayout>
-                            <StackLayout Grid.Row="2" HeightRequest="50" BackgroundColor="White">
+                            <StackLayout Grid.Row="2" HeightRequest="50" BackgroundColor="WhiteSmoke">
                                 <Label Margin="16,5,0,0" Text="Tasks" Style="{StaticResource PageHeader}" FontSize="18" TextColor="Gray"/>
                             </StackLayout>
                             <StackLayout Grid.Row="3" Margin="0,-1,0,0" BackgroundColor="White">
-                               <syncfusion:SfListView  x:Name="listView" ItemsSource="{Binding TasksModel}"
-                               ItemSize="100" 
-					           FocusBorderThickness="0"
-                               IsStickyGroupHeader="True"
-                               AllowGroupExpandCollapse="True" 
-                               SelectionBackgroundColor="White"
-                               IsScrollBarVisible="False"
-                                GroupHeaderSize="{OnPlatform Default=40, macOS=70}"  >
-                                    <syncfusion:SfListView.ItemTemplate>
-                                        <DataTemplate>
+                                <ListView GroupDisplayBinding="{Binding Key}"
+                                            GroupShortNameBinding="{Binding Key}"
+                                            HasUnevenRows="true"
+                                            SelectionMode="None"
+                                            Margin="5,10,5,10"
+                                            BackgroundColor="White"
+                                            HorizontalScrollBarVisibility="Never"
+                                            VerticalScrollBarVisibility="Never"
+                                            IsGroupingEnabled="true"
+                                            d:IsGroupingEnabled="false"
+                                            ItemsSource="{Binding TasksGrouped}">   
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate x:DataType="models1:TasksModel">
                                             <ViewCell>
-                                                <Grid ColumnDefinitions="Auto,Auto,Auto" ColumnSpacing="0">
-                                                    <CheckBox  Visual="Material"   Grid.Column="0" Margin="15,0,0,20">
+                                                <Grid ColumnDefinitions="Auto,Auto,Auto" Margin="0,10,0,0" ColumnSpacing="0">
+                                                    <CheckBox  Visual="Material"   Grid.Column="0" Margin="15,10,0,20">
                                                         <VisualStateManager.VisualStateGroups>
                                                             <VisualStateGroup x:Name="CommonStates">
                                                                 <VisualState x:Name="Normal">
                                                                     <VisualState.Setters>
                                                                         <Setter Property="Color"
-                                                                                 Value="Gray" />
+                                                             Value="Gray" />
                                                                     </VisualState.Setters>
                                                                 </VisualState>
                                                                 <VisualState x:Name="IsChecked">
                                                                     <VisualState.Setters>
                                                                         <Setter Property="Color"
-                                                                                Value="Orange" />
+                                                            Value="Orange" />
                                                                     </VisualState.Setters>
                                                                 </VisualState>
                                                             </VisualStateGroup>
@@ -140,7 +159,7 @@
                                                     <StackLayout Grid.Column="1" Margin="5,15,0,0" Spacing="0">
                                                         <Label Text="{Binding TaskDescription}" Opacity="0.7" Style="{StaticResource SectionHeader}" TextColor="Black"/>
                                                         <StackLayout Orientation="Horizontal" Spacing="0" HorizontalOptions="StartAndExpand">
-                                                            <Image Source="TimeImage.png" HorizontalOptions="StartAndExpand" Opacity="0.5" HeightRequest="18" WidthRequest="18"/>
+                                                            <Image Source="Clock.png" HorizontalOptions="StartAndExpand" HeightRequest="18" WidthRequest="18"/>
                                                             <Label Text="{Binding StartDate}" Margin="10,2,0,0" FontSize="14" Style="{StaticResource SectionHeader}" Opacity="0.5" TextColor="Black"/>
                                                             <Label Text="-" Margin="10,0,0,0" Style="{StaticResource SectionHeader}" TextColor="Black"/>
                                                             <Label Text="{Binding EndDate}" Margin="10,2,0,0" FontSize="14" Style="{StaticResource SectionHeader}" Opacity="0.5" TextColor="Black"/>
@@ -153,8 +172,8 @@
                                                 </Grid>
                                             </ViewCell>
                                         </DataTemplate>
-                                    </syncfusion:SfListView.ItemTemplate>
-                                </syncfusion:SfListView>
+                                    </ListView.ItemTemplate>
+                                </ListView>
                             </StackLayout>
                         </Grid>
                     </xct:TabViewItem>

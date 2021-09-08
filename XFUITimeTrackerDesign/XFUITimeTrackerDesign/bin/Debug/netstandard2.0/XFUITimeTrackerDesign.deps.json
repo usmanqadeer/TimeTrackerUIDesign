@@ -11,8 +11,7 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Refractored.MvvmHelpers": "1.6.2",
-          "Syncfusion.Xamarin.SfListView": "18.4.0.34",
-          "Syncfusion.Xamarin.SfProgressBar": "18.4.0.34",
+          "Xam.Plugins.Forms.ProgressRing": "0.1.2",
           "Xamarin.CommunityToolkit": "1.2.0-pre1",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012",
@@ -36,68 +35,6 @@
           "lib/netstandard2.0/MvvmHelpers.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Syncfusion.Licensing/18.4.0.34": {
-        "runtime": {
-          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
-            "assemblyVersion": "18.4.0.34",
-            "fileVersion": "18.4.0.34"
-          }
-        }
-      },
-      "Syncfusion.Xamarin.Core/18.4.0.34": {
-        "dependencies": {
-          "Syncfusion.Licensing": "18.4.0.34",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Syncfusion.Core.XForms.dll": {
-            "assemblyVersion": "18.4451.0.34",
-            "fileVersion": "18.4451.0.34"
-          }
-        }
-      },
-      "Syncfusion.Xamarin.DataSource/18.4.0.34": {
-        "runtime": {
-          "lib/netstandard2.0/Syncfusion.DataSource.Portable.dll": {
-            "assemblyVersion": "18.4451.0.34",
-            "fileVersion": "18.4451.0.34"
-          }
-        }
-      },
-      "Syncfusion.Xamarin.GridCommon/18.4.0.34": {
-        "runtime": {
-          "lib/netstandard2.0/Syncfusion.GridCommon.Portable.dll": {
-            "assemblyVersion": "18.4451.0.34",
-            "fileVersion": "18.4451.0.34"
-          }
-        }
-      },
-      "Syncfusion.Xamarin.SfListView/18.4.0.34": {
-        "dependencies": {
-          "Syncfusion.Xamarin.Core": "18.4.0.34",
-          "Syncfusion.Xamarin.DataSource": "18.4.0.34",
-          "Syncfusion.Xamarin.GridCommon": "18.4.0.34",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Syncfusion.SfListView.XForms.dll": {
-            "assemblyVersion": "18.4451.0.34",
-            "fileVersion": "18.4451.0.34"
-          }
-        }
-      },
-      "Syncfusion.Xamarin.SfProgressBar/18.4.0.34": {
-        "dependencies": {
-          "Syncfusion.Xamarin.Core": "18.4.0.34",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Syncfusion.SfProgressBar.XForms.dll": {
-            "assemblyVersion": "18.4451.0.34",
-            "fileVersion": "18.4451.0.34"
           }
         }
       },
@@ -148,6 +85,17 @@
         }
       },
       "System.ValueTuple/4.5.0": {},
+      "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2012"
+        },
+        "runtime": {
+          "lib/portable-net45+wp80+win8+wpa81/ProgressRing.Forms.Plugin.dll": {
+            "assemblyVersion": "1.0.6460.16364",
+            "fileVersion": "1.0.6460.16364"
+          }
+        }
+      },
       "Xamarin.CommunityToolkit/1.2.0-pre1": {
         "dependencies": {
           "System.Reflection.Emit.Lightweight": "4.7.0",
@@ -222,48 +170,6 @@
       "path": "refractored.mvvmhelpers/1.6.2",
       "hashPath": "refractored.mvvmhelpers.1.6.2.nupkg.sha512"
     },
-    "Syncfusion.Licensing/18.4.0.34": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-a8BuTU3KGTAMs2h0j3TCTazYLh9tWLfiFH0BWOmtqnJSwIJu1hR9yhNtblT9/4QgWFFTzyJ/yp4udWVtj/QL+g==",
-      "path": "syncfusion.licensing/18.4.0.34",
-      "hashPath": "syncfusion.licensing.18.4.0.34.nupkg.sha512"
-    },
-    "Syncfusion.Xamarin.Core/18.4.0.34": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-m28tcQ2MiFnGOFrwEHxkCey48CC4ZrZN/hMfsFAdPSeS1ynloouSJUhjqbrL9mjbObl+hU7fqWD+oq9x2M7bSA==",
-      "path": "syncfusion.xamarin.core/18.4.0.34",
-      "hashPath": "syncfusion.xamarin.core.18.4.0.34.nupkg.sha512"
-    },
-    "Syncfusion.Xamarin.DataSource/18.4.0.34": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-mBCzmFUB5kdXbgRyex5YVc82APjmdTiRwodez71bQYmuFUE0sv17H+qibQqln3EqYCc9EzB8FHxAJ5cit/xQJQ==",
-      "path": "syncfusion.xamarin.datasource/18.4.0.34",
-      "hashPath": "syncfusion.xamarin.datasource.18.4.0.34.nupkg.sha512"
-    },
-    "Syncfusion.Xamarin.GridCommon/18.4.0.34": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-stZlCigVLVclk7kOL7EA/Q1D9GbUFwr70yxmCaNq/cfiNO+A5hIP5LeCWusDpq/K7Ffi4pdBHS8D+aq0JXqhSg==",
-      "path": "syncfusion.xamarin.gridcommon/18.4.0.34",
-      "hashPath": "syncfusion.xamarin.gridcommon.18.4.0.34.nupkg.sha512"
-    },
-    "Syncfusion.Xamarin.SfListView/18.4.0.34": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-YNhzCJw5Td5eZC8gqdKxBB1kQww5C2HQxyBJYmc9PnwnUC+Ruq0gVpuVzSDybJusMmj8Y3uFODTEaHQo+3bQ9g==",
-      "path": "syncfusion.xamarin.sflistview/18.4.0.34",
-      "hashPath": "syncfusion.xamarin.sflistview.18.4.0.34.nupkg.sha512"
-    },
-    "Syncfusion.Xamarin.SfProgressBar/18.4.0.34": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-dM4aQDhwbOXQVqyA6W1WCvHGNXyF/reowdaOxGkvC/YTFlPks+u3MWSejU/ayqeTYMUEOgA+IOKWktBXaUPn+Q==",
-      "path": "syncfusion.xamarin.sfprogressbar/18.4.0.34",
-      "hashPath": "syncfusion.xamarin.sfprogressbar.18.4.0.34.nupkg.sha512"
-    },
     "System.Numerics.Vectors/4.5.0": {
       "type": "package",
       "serviceable": true,
@@ -305,6 +211,13 @@
       "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
       "path": "system.valuetuple/4.5.0",
       "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "Xam.Plugins.Forms.ProgressRing/0.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TqxIQo9uiq0EXPSIet8eouoF0Vs1Al30Urd++LXkH2lCQPMJzr5aCrwnCrTi9/4V229njCgUw53+Au6xWbZwHg==",
+      "path": "xam.plugins.forms.progressring/0.1.2",
+      "hashPath": "xam.plugins.forms.progressring.0.1.2.nupkg.sha512"
     },
     "Xamarin.CommunityToolkit/1.2.0-pre1": {
       "type": "package",
